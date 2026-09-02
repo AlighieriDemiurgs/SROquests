@@ -26,7 +26,7 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 
 **11. Alexandria** 
 
-# Jangan
+# 1. Jangan
 
 | QUEST NAME | LEVEL | REPEAT | DESCRIPTION | REWARD |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 | White Tiger's Skin 3 | 8 | 1 | Starting NPC: **Specialty Trader Jodaesan**<br>Hunt **White Tiger (LV 18)** to collect **140 White Tiger's Skin**<br><br>**Required Quest: LV 8 "White Tiger's Skin 1". Can't be completed at the same time with LV 8 "White Tiger's Skin 2".** | EXP: 186,120<br><br>SP EXP: 20,000<br>ITEM: Tiger's Strength (Phy/Mag damage 20% Increase for 1 hour) |
 | Folk Remedy | 9 | 1 | Starting NPC: **Ferry Ticket Seller Chau (Jangan West Ferry)**<br>Hunt **Chakji Worker (LV 19) / Chakji (LV 20)** to collect **70 Chakji's Eye** | EXP: 246,100<br><br>SP EXP: 25,000<br>GOLD: 28,500 |
 
-# Constantinople (and Eastern Europe)
+# 2. Constantinople (and Eastern Europe)
 
 | QUEST NAME | LEVEL | REPEAT | DESCRIPTION | REWARD |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 | Cerberus 2 | 9 | 1 | Starting NPC: **Sunset Witch (Constantinople Witch’s Lighthouse)**<br>Kill **Selene's Lion (LV 19)** for **40 Dark Manes**<br><br>**Required Quest: LV 9 "Cerberus 1"** | EXP: 122,580<br>SP EXP: 13,400 |
 | Cerberus 3 | 10 | 1 | Starting NPC: **Sunset Witch (Constantinople Witch’s Lighthouse)**<br>Go to Jupiter Temple, the pain plaza (X:-12390, Y:960). Right click Call of Hell to summon **Hell Cerberus (LV 24)**, it will appear next to you after a while. Only the party leader can do that. Kill it.<br><br>**Required Quest: LV 9 "Cerberus 2"**<br>**Required: Exp & Item Auto share Party** | EXP: 28,300<br>ITEM: Cry of Peace (Phy/Mag damage 30% Increase for 3 hours) |
 
-# Donwhang
+# 3. Donwhang
 
 | QUEST NAME | LEVEL | REPEAT | DESCRIPTION | REWARD |
 |---|---|---|---|---|
@@ -146,7 +146,7 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 | Delivering Paddle | 30 | 1 | Starting NPC: **Blacksmith Agol**<br>Deliver **50 Sturdy Paddle** to **Boat Ticket Seller Salmai (Donwhang North Tarim Ferry)**<br><br>**Required Quest: LV 30 "Seeking Paddle Material"** | EXP: 221,500<br>SP EXP: 50,000<br>ITEM: 5 Order of Instant Return (Return Scroll) |
 | Inventory Expansion 2 (China) | 30 | 1 | Starting NPC: **Grocery Trader Yeosun**<br>Kill **Earth Taoist (LV 30)** to collect **20 Magic Charm**<br><br>**Required Quest: LV 5 "Inventory Expansion 1 (China)"** | 4 inventory slots |
 
-# Samarkand (Asia Minor and Central Asia)
+# 4. Samarkand (Asia Minor and Central Asia)
 
 | QUEST NAME | LEVEL | REPEAT | DESCRIPTION | REWARD |
 |---|---|---|---|---|
@@ -203,7 +203,7 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 | Defeating Goria 6 | 30 | 1 | Starting NPC: **Hunter Associate Shahad (Samarkand)**<br>Right click Hun Tribe Capture Trap near **Hun Magic Archer (LV 40)**. Make it walk or run through the trap. If successful, it is captured. Go back to **Hunter Associate Shahad** to finish the quest. Return Scrolls, Reverse Return Scrolls or teleports are allowed.<br><br>**Required Quest: LV 30 "Defeating Goria 5"** | ITEM: Courage Scroll (Phy/Mag damage 20% Increase for 1 hour) |
 | Defeating Goria 7 | 30 | 1 | Starting NPC: **Hunter Associate Shahad (Samarkand)**<br>Go to Huns Garrison (X:-4440, Y:2595). Right click Big Drum to summon **Goria (LV 40)**. It will appear next to you after a while. Only the party leader can do that. Kill it. Return to **Hunter Associate Shahad**.<br><br>**Required Quest: LV 30 "Defeating Goria 6"**<br>**Required: Exp & Item Auto share Party** | EXP: 159,500<br>SP EXP: 4000<br>ITEM: Mission Complete Reward (MaximumHP 400 Increase and MaximumMP 400 Increase for 3 hours) |
 
-# Hotan
+# 5. Hotan
 
 | QUEST NAME | LEVEL | REPEAT | DESCRIPTION | REWARD |
 |---|---|---|---|---|
@@ -248,7 +248,7 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 | Subjugating the God of Evil | 55 | 1 | Starting NPC: **Hunter Associate Ahmok**<br>Hunt **300 Devil Yeti (LV 60)** | EXP: 2,148,980<br>SP EXP: 28,000<br>GOLD: 82,000 |
 | Inventory Expansion 3 (Common) | 60 | 1 | Starting NPC: **Jewel Lapidary Mamoje**<br>Kill **Big White Spider (LV 58)** to collect **30 Strong Spider Web**<br><br>**Required Quest: LV 30 “Inventory Expansion 2 (China)” or LV 30 “Inventory Expansion 2 (Europe)”** | 4 inventory slots |
 
-# Donwhang Stone Cave
+# 6. Donwhang Stone Cave
 
 | QUEST NAME | LEVEL | REPEAT | DESCRIPTION | REWARD |
 |---|---|---|---|---|
@@ -261,7 +261,7 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 | Paedo’s Request | 60 | 3 | Starting NPC: **Storage-Keeper Paedo (Donwhang)**<br>Hunt **Gold-Silver Yacha (LV 69)** / **Diamond Yacha (LV 70)** --- CAVE 4F to collect **130 Diamond Piece** and **130 Gold Piece** | EXP: 8,275,100<br>GOLD: 375,000 |
 | Collecting Buddhist Scriptures | 60 | 1 | Starting NPC: **Buddhist Priest Hyeon (Donwhang)**<br>Collect 4 Buddhist Scriptures:<br>**Goje’s Letter**: Soil Ghost Bug (LV 61) / Power Earth Ghost (LV 64) --- CAVE 1F<br>**Jipje’s Letter**: Earth Ghost Warrior (LV 65) --- CAVE 2F<br>**Myelje’s Letter**: Gold-Silver Yacha (LV 69) / Diamond Yacha (LV 70) --- CAVE 4F<br>**Doje’s Letter**: Devil Mask Nachal (LV 70) --- CAVE 4F<br><br>**Required Quest: LV 1 “Clearing Tomb Stone”** | EXP: 16,825,300<br>SP EXP: 24,000<br>GOLD: 425,000 |
 
-# Taklamakan
+# 7. Taklamakan
 
 | QUEST NAME | LEVEL | REPEAT | DESCRIPTION | REWARD |
 |---|---|---|---|---|
