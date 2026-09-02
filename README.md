@@ -79,7 +79,7 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 | Delivering Paddle | 30 | 1 | Starting NPC: **Blacksmith Agol**<br>Deliver **50 Sturdy Paddle** to **Boat Ticket Seller Salmai (Donwhang North Tarim Ferry)**<br><br>**Required Quest: LV 30 "Seeking Paddle Material"** | EXP: 221,500<br>SP EXP: 50,000<br>ITEM: 5 Order of Instant Return (Return Scroll) |
 | Inventory Expansion 2 (China) | 30 | 1 | Starting NPC: **Grocery Trader Yeosun**<br>Kill **Earth Taoist (LV 30)** to collect **20 Magic Charm**<br><br>**Required Quest: LV 5 "Inventory Expansion 1 (China)"** | 4 inventory slots |
 
-# Constantinople & Samarkand
+# Constantinople (and Eastern Europe)
 
 | QUEST NAME | LEVEL | REPEAT | DESCRIPTION | REWARD |
 |---|---|---|---|---|
@@ -121,6 +121,11 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 | Cerberus 1 | 9 | 1 | Starting NPC: **Sunset Witch (Constantinople Witch’s Lighthouse)**<br>Go to Golden Apple Tree (X: -11280, 1545) right click 30 Long Scissors to obtain **30 Golden Apple**. Right click Golden Apple to summon **Tiny Ladon (LV 19)**. Kill them and collect **15 Bloody Orb**. You will likely need 2 trips with Long Scissors to obtain 15 Bloody Orb. | EXP: 20,340<br>SP EXP: 2500 |
 | Cerberus 2 | 9 | 1 | Starting NPC: **Sunset Witch (Constantinople Witch’s Lighthouse)**<br>Kill **Selene's Lion (LV 19)** for **40 Dark Manes**<br><br>**Required Quest: LV 9 "Cerberus 1"** | EXP: 122,580<br>SP EXP: 13,400 |
 | Cerberus 3 | 10 | 1 | Starting NPC: **Sunset Witch (Constantinople Witch’s Lighthouse)**<br>Go to Jupiter Temple, the pain plaza (X:-12390, Y:960). Right click Call of Hell to summon **Hell Cerberus (LV 24)**, it will appear next to you after a while. Only the party leader can do that. Kill it.<br><br>**Required Quest: LV 9 "Cerberus 2"**<br>**Required: Exp & Item Auto share Party** | EXP: 28,300<br>ITEM: Cry of Peace (Phy/Mag damage 30% Increase for 3 hours) |
+
+# Samarkand (Asia Minor and Central Asia)
+
+| QUEST NAME | LEVEL | REPEAT | DESCRIPTION | REWARD |
+|---|---|---|---|---|
 | Megalopa’s Shell | 11 | 1 | Starting NPC: **Inn Master Sikeulro (Constantinople)**<br>Kill **Megalopa (LV 21)** to acquire **20 Megalopa Shell** | EXP: 251,100<br>SP EXP: 6700<br>GOLD: 11,000 |
 | Finding Harp | 11 | 1 | Starting NPC: **Harbor Manager Gale (Eastern Europe Dock)**<br>Kill **Hungry Megalopa (LV 21)** to acquire **Forgotten Harp**. Hungry Megalop can be found in North of Coast of Troy (X:-7670 Y:2840).<br><br>**Required: Exp & Item Auto share Party** | ITEM: 2 Pledge of Friendship (MaximumHP 300 Increase for 2 hours) and 1 Pledge of Gratitude (MaximumMP 300 Increase for 2 hours) |
 | Pirate’s Tyranny | 12 | 1 | Starting NPC: **Harbor Manager Gale (Eastern Europe Dock)**<br>Kill **Pilot Log (LV 22)** to acquire **30 Gale’s Stolen Box**<br><br>**Required Quest: LV 11 "Finding Harp"** | EXP: 411,000<br>SP EXP: 10,000<br>GOLD: 16,200 |
