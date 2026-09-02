@@ -4,17 +4,26 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 
 # CONTENT
 **1. Jangan**
+
 **2. Constantinople (and Eastern Europe)** 
+
 **3. Donwhang** 
+
 **4. Samarkand (Asia Minor and Central Asia)** 
+
 **5. Hotan** 
+
 **6. Donwhang Stone Cave** 
+
 **7. Taklamakan** 
 
 # WORK IN PROGRESS (WIP)
 **8. Roc Mountain** 
+
 **9. Forgotten World** 
+
 **10. Qin-Shi Tomb** 
+
 **11. Alexandria** 
 
 # Jangan
