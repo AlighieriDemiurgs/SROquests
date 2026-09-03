@@ -151,7 +151,7 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 | QUEST NAME | LEVEL | REPEAT | DESCRIPTION | REWARD |
 |---|---|---|---|---|
 | Megalopa’s Shell | 11 | 1 | Starting NPC: **Inn Master Sikeulro (Constantinople)**<br>Kill **Megalopa (LV 21)** to acquire **20 Megalopa Shell** | EXP: 251,100<br>SP EXP: 6700<br>GOLD: 11,000 |
-| Finding Harp | 11 | 1 | Starting NPC: **Harbor Manager Gale (Eastern Europe Dock)**<br>Kill **Hungry Megalopa (LV 21)** to acquire **Forgotten Harp**. Hungry Megalop can be found in North of Coast of Troy (X:-7670 Y:2840).<br><br>**Required: Exp & Item Auto share Party** | ITEM: 2 Pledge of Friendship (MaximumHP 300 Increase for 2 hours) and 1 Pledge of Gratitude (MaximumMP 300 Increase for 2 hours) |
+| Finding Harp | 11 | 1 | Starting NPC: **Harbor Manager Gale (Eastern Europe Dock)**<br>Kill **Hungry Megalopa (LV 21)** to acquire **Stolen Harp**. Hungry Megalop can be found in North of Coast of Troy (X:-7670 Y:2840).<br><br>**Required: Exp & Item Auto share Party** | ITEM: 2 Pledge of Friendship (MaximumHP 300 Increase for 2 hours) and 1 Pledge of Gratitude (MaximumMP 300 Increase for 2 hours) |
 | Pirate’s Tyranny | 12 | 1 | Starting NPC: **Harbor Manager Gale (Eastern Europe Dock)**<br>Kill **Pilot Log (LV 22)** to acquire **30 Gale’s Stolen Box**<br><br>**Required Quest: LV 11 "Finding Harp"** | EXP: 411,000<br>SP EXP: 10,000<br>GOLD: 16,200 |
 | Hunting Crab | 13 | 3 | Starting NPC: **Pirate Morgun (Droa Dock)**<br>Kill **30 Crab (LV 23)** and **10 Crab Champions (LV 23)** | EXP: 176,120<br>GOLD: 7000 |
 | Delivering Pirate's Letter | 13 | 1 | Starting NPC: **Pirate Morgun (Droa Dock)**<br>Deliver Pirate’s Letter to **General Ratchel (Constantinople)** | EXP: 21,830<br>SP EXP: 2100<br>GOLD: 2700 |
