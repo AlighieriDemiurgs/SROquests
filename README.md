@@ -221,7 +221,7 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 | Ultra Blood Devil’s Crystal Gem | 41 | 1 | Starting NPC: **Specialty Trader Sanmok**<br>Hunt **Ultra Blood Devil (LV 46)** to collect **70 Devil Flower Crystal** | EXP: 953,500<br>SP EXP: 14,000<br>GOLD: 80,000 |
 | Finding Ishade’s Ice | 41 | 1 | Starting NPC: **Protector Trader Gonishya**<br>Hunt **Ishade (LV 51)** / **Hashade (LV 52)** to collect **130 Ishade Ice**<br><br>**Required Quest: LV 28 "Finding Armor Materials (Red Shell)”** | EXP: 2,286,300<br>ITEM: 50 Vigor Recovery Grain (Small) |
 | Special Wound Remedy | 42 | 1 | Starting NPC: **Potion Merchant Manina**<br>Hunt **Golden Spider (LV 47)** to collect **70 Spider Shell** | EXP: 953,500<br>SP EXP: 15,000<br>GOLD: 79,000 |
-| Manina’s Request | 42 | 3 | Starting NPC: **Potion Merchant Manina**<br>Hunt **Blue-face Spider (LV 52)** / **White-face Spider (LV 53)** to collect **100 White-face Spider’s Thread** | EXP: 1,650,500<br>GOLD: 100,000 |
+| Manina’s Request | 42 | 3 | Starting NPC: **Potion Merchant Manina**<br>Hunt **Blue-Face Spider (LV 52)** / **White-Face Spider (LV 53)** to collect **100 White-face Spider’s Thread** | EXP: 1,650,500<br>GOLD: 100,000 |
 | Healthy Invigorant | 43 | 1 | Starting NPC: **Soldier Pao (Hotan Palace)**<br>Hunt **White Spider (LV 48)** to collect **30 Stuffed Leg** | EXP: 953,500<br>SP EXP: 20,000<br>GOLD: 74,000 |
 | Ensuring Pedestrian Safety | 44 | 1 | Starting NPC: **Merchant Associate Asaman**<br>Eliminate **300 Mujigi (LV 49)** | EXP: 953,500<br>SP EXP: 15,000<br>GOLD: 79,000 |
 | The Special Vein | 44 | 1 | Starting NPC: **Protector Trader Gonishya**<br>Hunt **Mujigi (LV 49)** to collect **70 Special Vein** | EXP: 953,500<br>SP EXP: 15,000<br>GOLD: 79,000 |
@@ -229,8 +229,8 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 | The Powerful Looking Accessory | 45 | 1 | Starting NPC: **Soldier Pao (Hotan Palace)**<br>Hunt **Ujigi (LV 50)** to collect **30 Ujigi Tooth** | EXP: 953,500<br>SP EXP: 22,000<br>GOLD: 72,000 |
 | The Endless Winter Nightmare | 46 | 1 | Starting NPC: **Soldier Tuolan (Hotan Palace)**<br>Defeat **300 Ishade (LV 51)** | EXP: 2,148,980<br>SP EXP: 25,000<br>GOLD: 85,000 |
 | Nerve-wrecking First Match (2) | 47 | 1 | Starting NPC: **Soldier Wulan (West Gate)**<br>Defeat **300 Hashade (LV 52)**<br><br>**Required Quest: LV 39 "Nerve-wrecking First Match (1)”** | EXP: 2,148,980<br>SP EXP: 23,000<br>GOLD: 87,000 |
-| Exterminating the Spiders | 47 | 1 | Starting NPC: **Soldier Pao (Hotan Palace)**<br>Exterminate **300 Blue-face Spider (LV 52)** | EXP: 2,148,980<br>SP EXP: 25,000<br>GOLD: 85,000 |
-| The Ceaseless Terror | 48 | 1 | Starting NPC: **Storage-Keeper Auisan**<br>Hunt **300 White-face Spider (LV 53)** | EXP: 2,148,980<br>SP EXP: 23,000<br>GOLD: 87,000 |
+| Exterminating the Spiders | 47 | 1 | Starting NPC: **Soldier Pao (Hotan Palace)**<br>Exterminate **300 Blue-Face Spider (LV 52)** | EXP: 2,148,980<br>SP EXP: 25,000<br>GOLD: 85,000 |
+| The Ceaseless Terror | 48 | 1 | Starting NPC: **Storage-Keeper Auisan**<br>Hunt **300 White-Face Spider (LV 53)** | EXP: 2,148,980<br>SP EXP: 23,000<br>GOLD: 87,000 |
 | The Threat to Warriors | 49 | 1 | Starting NPC: **Specialty Trader Sanmok**<br>Hunt **300 Penon Fighter (LV 54)** | EXP: 2,148,980<br>SP EXP: 25,000<br>GOLD: 85,000 |
 | Materials for the Cold Accessory | 49 | 1 | Starting NPC: **Jewel Lapidary Mamoje**<br>Hunt **Penon Fighter (LV 54)** to collect **150 Broken Icy Piece** | EXP: 2,148,980<br>SP EXP: 25,000<br>GOLD: 85,000 |
 | Soboi’s Wish | 49 | 3 | Starting NPC: **Blacksmith Soboi**<br>Hunt **Yeti (LV 59)** / **Devil Yeti (LV 60)** to collect **100 Yeti’s Stick** | EXP: 2,575,000 |
