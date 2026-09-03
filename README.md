@@ -280,5 +280,5 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 | The Blacksmith’s Pride | 71 | 1 | Starting NPC: **Blacksmith Soboi (Hotan)**<br>Hunt **Niya Hunter (LV 76)** to collect **30 Fine Bow** | EXP: 14,494,000<br>SP EXP: 88,000<br>GOLD: 342,000 |
 | Purifying the Energy of Earth | 72 | 1 | Starting NPC: **Tunnel Manager Asui (Taklamakan North-West to Samarkand)**<br>Eliminate **300 Niya Mage (LV 77)** | EXP: 14,494,000<br>SP EXP: 88,000<br>GOLD: 342,000 |
 | The Rumor of Niya Shaman | 73 | 1 | Starting NPC: **Boat Ticket Seller Ahgon (Hotan)**<br>Hunt **300 Niya Shaman (LV 78)** | EXP: 14,494,000<br>SP EXP: 90,000<br>GOLD: 340,000 |
-| The Secret of the Ressurection | 74 | 1 | Starting NPC: **Blacksmith Soboi (Hotan)**<br>Hunt **Niya Royal Guard (LV 79)** to collect **70 Piece of Curse** | EXP: 14,494,000<br>SP EXP: 91,000<br>GOLD: 339,000 |
+| The Secret of the Resurrection | 74 | 1 | Starting NPC: **Blacksmith Soboi (Hotan)**<br>Hunt **Niya Royal Guard (LV 79)** to collect **70 Piece of Curse** | EXP: 14,494,000<br>SP EXP: 91,000<br>GOLD: 339,000 |
 | The Water Drop of Magic | 75 | 1 | Starting NPC: **Jewel Lapidary Mamoje (Hotan)**<br>Hunt **Niya General (LV 80)** to collect **30 Water Drop of Magic** | EXP: 14,494,000<br>SP EXP: 90,000<br>GOLD: 340,000 |
