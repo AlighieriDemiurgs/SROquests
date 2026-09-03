@@ -71,7 +71,7 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 | Hunting Wolf | 1 | 1 | Starting NPC: **Specialty Trader Tina (Constantinople)**<br>Kill **20 Baroi Wolf (LV 5)** | EXP: 4160<br>SP EXP: 1500<br>GOLD: 950 |
 | Associate Boss Kapros | 1 | 1 | Starting NPC: **Specialty Trader Tina (Constantinople)**<br>Talk to **Association Boss Kapros (Constantinople)** | EXP: 350 |
 | Attacker of Traders | 1 | 1 | Starting NPC: **Association Boss Kapros (Constantinople)**<br>Talk to **Sunset Witch (Constantinople Witch’s Lighthouse)**. Return back to **Association Boss Kapros (Constantinople)**.<br><br>**Required Quest: LV 1 "Associate Boss Kapros"** | EXP: 1050<br>SP EXP: 750<br>ITEM: Mercy’s Step (Moving speed 20% Increase for 1 hour) |
-| Revenge of Traders | 1 | 1 | Starting NPC: **Association Boss Kapros (Constantinople)**<br>Kill **25 Logos Baroi (LV 7)**<br><br>**Required Quest: LV 7 "Attacker of Traders"** | EXP: 8250<br>SP EXP: 2000<br>GOLD: 1500 |
+| Revenge of Traders | 1 | 1 | Starting NPC: **Association Boss Kapros (Constantinople)**<br>Kill **25 Logos Baroi (LV 7)**<br><br>**Required Quest: LV 1 "Attacker of Traders"** | EXP: 8250<br>SP EXP: 2000<br>GOLD: 1500 |
 | Bringing Linen | 1 | 1 | Starting NPC: **Association Boss Kapros (Constantinople)**<br>Kill **Bartis (LV 8)** to collect **7 Linen Box** | EXP: 10,340<br>SP EXP: 2500<br>GOLD: 2000 |
 | Finding Perfume | 1 | 1 | Starting NPC: **Association Boss Kapros (Constantinople)**<br>Kill **Misos Baroi (LV 9)** to collect **20 Kapros’ Cologne** | EXP: 18,680<br>SP EXP: 4000<br>GOLD: 3400 |
 | Perfume Delivery | 1 | 1 | Starting NPC: **Association Boss Kapros (Constantinople)**<br>Deliver Tana’s Perfume to **Specialty Trader Tina (Constantinople)** | ITEM: D2 T3 Weapon (LV 13) |
