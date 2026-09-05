@@ -24,7 +24,7 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 
 **10. Qin-Shi Tomb** 
 
-# FUTURE
+# FUTURE PLANS
 **11. Forgotten World** 
 
 **12. Roc** 
