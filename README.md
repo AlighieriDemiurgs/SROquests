@@ -37,7 +37,7 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 
 | QUEST NAME | LEVEL | REPEAT | DESCRIPTION | REWARD |
 |---|---|---|---|---|
-| Purification Seed | 1 | 3 per Premium ticket | Starting NPC: **Potion Merchant – Herbalist (any town)**<br>Collect 100 / 200 / 300 / 400 / 500 **Purification seed** | 100 seed = 1200 SP (Skill Point)<br>200 seed = 2800 SP (Skill Point)<br>300 seed = 4800 SP (Skill Point)<br>400 seed = 6400 SP (Skill Point)<br>500 seed = 10’000 SP (Skill Point) |
+| Purification Seed | 1 | 3 per Premium ticket | Starting NPC: **Potion Merchant – Herbalist (any town)**<br>Collect 100 / 200 / 300 / 400 / 500 **Purification seed**. Purification seed drop only during Gold Time.<br><br>**Required: Premium Gold Time ticket**  | 100 seed = 1200 SP (Skill Point)<br>200 seed = 2800 SP (Skill Point)<br>300 seed = 4800 SP (Skill Point)<br>400 seed = 6400 SP (Skill Point)<br>500 seed = 10’000 SP (Skill Point) |
 | Inventory Expansion 1 (China) | 5 | 1 | Starting NPC: **Grocery Trader Jinjin**<br>Kill **Mangyang (LV 1)** to collect **10 Strong Straw** | 10 inventory slots |
 | Inventory Expansion 1 (Europe) | 5 | 1 | Starting NPC: **Grocery Trader Bajel (Constantinople)**<br>Kill **Movoi (LV 2)** to collect **10 Movoi’s Grass** | 10 inventory slots |
 | Resuscitation Potion Quest | 20 | unlimited | Starting NPC: **Potion Merchant – Herbalist (any town)**<br>Hunt monsters and collect **Curst Heart**. Return to a **Potion Merchant – Herbalist (any town)** and exchange packs of 10 Curst Heart for a Resuscitation Potion. 10 Curst Heart are exchanged for 1 Resuscitation Potion. One Resuscitation Potion reduces the Mastery Level of any skill of your choice by 1 level. 80% of Skill Point experience spent is returned. | ITEM: Resuscitation Potion |
