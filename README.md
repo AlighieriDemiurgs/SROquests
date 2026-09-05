@@ -20,14 +20,16 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 # WORK IN PROGRESS (WIP)
 **8. Roc Mountain** 
 
-**9. Qin-Shi Tomb** 
+**9. Roc** 
+
+**10. Qin-Shi Tomb** 
 
 # FUTURE
-**10. Forgotten World** 
+**11. Forgotten World** 
 
-**11. Blue Berserker** 
+**12. Blue Berserker** 
 
-**12. Alexandria** 
+**13. Alexandria** 
 
 # 1. Jangan
 
