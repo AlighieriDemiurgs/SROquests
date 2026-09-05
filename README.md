@@ -29,7 +29,7 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 
 **12. Blue Berserker** 
 
-**13. Alexandria** 
+**13. Alexandria and Egypt** 
 
 # 1. Jangan
 
