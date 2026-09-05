@@ -3,35 +3,53 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 - Discord: **st.demiurgs**
 
 # CONTENT
-**1. Jangan**
+**1. Special**
 
-**2. Constantinople (and Eastern Europe)** 
+**2. Jangan**
 
-**3. Donwhang** 
+**3. Constantinople (and Eastern Europe)** 
 
-**4. Samarkand (Asia Minor and Central Asia)** 
+**4. Donwhang** 
 
-**5. Hotan** 
+**5. Samarkand (Asia Minor and Central Asia)** 
 
-**6. Donwhang Stone Cave** 
+**6. Hotan** 
 
-**7. Taklamakan** 
+**7. Donwhang Stone Cave** 
+
+**8. Taklamakan** 
 
 # WORK IN PROGRESS (WIP)
-**8. Roc Mountain** 
+**9. Roc Mountain** 
 
-**9. Qin-Shi Tomb** 
+**10. Qin-Shi Tomb** 
 
 # FUTURE
-**10. Forgotten World** 
+**11. Forgotten World** 
 
-**11. Roc** 
+**12. Roc** 
 
-**12. Blue Berserker** 
+**13. Blue Berserker** 
 
-**13. Alexandria and Egypt** 
+**14. Alexandria and Egypt** 
 
-# 1. Jangan
+# 1. Special
+
+| QUEST NAME | LEVEL | REPEAT | DESCRIPTION | REWARD |
+|---|---|---|---|---|
+| Purification Seed | 1 | 3 per Premium ticket | Starting NPC: **Potion Merchant – Herbalist (any town)**<br>Collect **100 / 200 / 300 / 400 / 500 Purification seed** | 100 seed = 1200 SP (Skill Point)<br>200 seed = 2800 SP (Skill Point)<br>300 seed = 4800 SP (Skill Point)<br>400 seed = 6400 SP (Skill Point)<br>500 seed = 10’000 SP (Skill Point) |
+| Inventory Expansion 1 (China) | 5 | 1 | Starting NPC: **Grocery Trader Jinjin**<br>Kill **Mangyang (LV 1)** to collect **10 Strong Straw** | 10 inventory slots |
+| Inventory Expansion 1 (Europe) | 5 | 1 | Starting NPC: **Grocery Trader Bajel (Constantinople)**<br>Kill **Movoi (LV 2)** to collect **10 Movoi’s Grass** | 10 inventory slots |
+| Resuscitation Potion Quest | 20 | unlimited | Starting NPC: **Potion Merchant – Herbalist (any town)**<br>Hunt monsters and collect **Curst Heart**. Return to a **Potion Merchant – Herbalist (any town)** and exchange packs of 10 Curst Heart for a Resuscitation Potion. 10 Curst Heart are exchanged for 1 Resuscitation Potion. One Resuscitation Potion reduces the Mastery Level of any skill of your choice by 1 level. | ITEM: Resuscitation Potion |
+| Bandit Trade Market | 20 | 1 | Starting NPC: **Specialty Trader Seopok (Bandit’s Mountain Stronghold in Jangan)**<br>Deliver Seopok’s Delivery Box to **Gisaeng Ahjin (Jangan China Town)**. Return back to **Specialty Trader Seopok (Bandit’s Mountain Stronghold in Jangan)** with Ahjin’s Delivery Check Card.<br>Hunt **20 White Tiger (LV 18)**<br><br>**Required: Equipped White Flag / Red Flag / Body Bronze Bag / Mental Bronze Bag (Trader job flag) to start the quest** | Opens up trading from and to Specialty Trader Seopok (Bandit’s Mountain Stronghold in Jangan)<br><br>ITEM: 5 Arabian camel (LV 20) |
+| Black Robber Trade Market | 30 | 1 | Starting NPC: **Specialty Trader Hounah (Black Robber Den in Tarim Basin)**<br>Deliver Hounah’s Delivery Box to **Storage-Keeper Paedo (Donwhang)**. Return back to **Specialty Trader Hounah (Black Robber Den in Tarim Basin)** with Paedo’s Delivery Check Card.<br>Hunt **20 Hyeongcheon (LV 30)**<br><br>**Required: Equipped White Flag / Red Flag / Body Bronze Bag / Mental Bronze Bag (Trader job flag) to start the quest** | Opens up trading from and to Specialty Trader Hounah (Black Robber Den in Tarim Basin)<br><br>ITEM: 5 Bactrian camel (LV 30) |
+| Inventory Expansion 2 (China) | 30 | 1 | Starting NPC: **Grocery Trader Yeosun**<br>Kill **Earth Taoist (LV 30)** to collect **20 Magic Charm**<br><br>**Required Quest: LV 5 "Inventory Expansion 1 (China)"** | 4 inventory slots |
+| Inventory Expansion 2 (Europe) | 30 | 1 | Starting NPC: **Grocery Trader Saha (Samarkand)**<br>Kill **Punisher (LV 30)** to obtain **20 Other World’s Fur**<br><br>**Required Quest: LV 5 "Inventory Expansion 1 (Europe)"** | 4 inventory slots |
+| Inventory Expansion 3 (Common) | 60 | 1 | Starting NPC: **Jewel Lapidary Mamoje**<br>Kill **Big White Spider (LV 58)** to collect **30 Strong Spider Web**<br><br>**Required Quest: LV 30 “Inventory Expansion 2 (China)” or LV 30 “Inventory Expansion 2 (Europe)”** | 4 inventory slots |
+| Niya Remains Trade Market | 60 | 1 | Starting NPC: **Specialty Trader Payi (Niya Remains in Taklamakan)**<br>Deliver Paeu’s Delivery Box to **Specialty Trader Sanmok (Hotan)**. Return back to **Specialty Trader Payi (Niya Remains in Taklamakan)** with Sanmok’s Delivery Check Card.<br>Hunt **20 Shakram (LV 61)**<br><br>**Required: Equipped White Flag / Red Flag / Body Bronze Bag / Mental Bronze Bag (Trader job flag) to start the quest** | Opens up trading from and to Specialty Trader Payi (Niya Remains in Taklamakan)<br><br>ITEM: 5 Fire bull (LV 60) |
+| Roc Mountain Trade Market | 70 | 1 | Starting NPC: **Specialty Trader Osaman (Roc Mountain Wind Town)**<br>Deliver Osaman’s Delivery Box to **Towner Salrihan (Roc Mountain Shepherd Town)**. Return back to **Specialty Trader Osaman (Roc Mountain Wind Town)** with Salrihan’s Delivery Check Card.<br>Hunt **20 Feather Cloak (LV 70)**<br><br>**Required: Equipped White Flag / Red Flag / Body Bronze Bag / Mental Bronze Bag (Trader job flag) to start the quest** | Opens up trading from and to Specialty Trader Hounah (Black Robber Den in Tarim Basin)<br><br>ITEM: 10 Fire bull (LV 60) |
+
+# 2. Jangan
 
 | QUEST NAME | LEVEL | REPEAT | DESCRIPTION | REWARD |
 |---|---|---|---|---|
@@ -54,7 +72,6 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 | Sweeping Bandit | 3 | 1 | Starting NPC: **Guild Manager Leebaek**<br>Hunt **25 Bandit Subordinate (LV 11) / Bandit (LV 16)** | EXP: 14,500<br>ITEM: 50 Vigor Recovery Herb |
 | Chulsan's Anger | 3 | 1 | Starting NPC: **Blacksmith Chulsan**<br>Hunt **140 Bandit Bowman (LV 15)** | EXP: 68,860<br>SP EXP: 10,000<br>ITEM: Certificate of Basic Armor Gender Transfer (up to D3) |
 | Stolen Sword | 5 | 1 | Starting NPC: **Hunter Associate Gwakwi**<br>Kill **Bandit (LV 16)** to obtain **Stolen Sword** | EXP: 41,360<br>SP EXP: 5000<br>GOLD: 5050 |
-| Inventory Expansion 1 (China) | 5 | 1 | Starting NPC: **Grocery Trader Jinjin**<br>Kill **Mangyang (LV 1)** to collect **10 Strong Straw** | 10 inventory slots |
 | White Tiger Hunting | 6 | 1 | Starting NPC: **Stable-keeper Machun**<br>Hunt **30 White Tiger (LV 18)** | EXP: 20,020<br>GOLD: 4300 |
 | Herb Delivery | 7 | 1 | Starting NPC: **Herbalist Yangyun**<br><br>Deliver Herb Parcel to **Ferry Ticket Seller Chau (Jangan West Ferry)**. Return back to **Herbalist Yangyun**. | EXP: 14,400<br><br>SP EXP: 3600<br>GOLD: 3800 |
 | Yangyun's Request | 7 | 1 | Starting NPC: **Herbalist Yangyun**<br><br>Deliver Doji's Medicine to **Ferry Ticket Seller Doji (Jangan East Ferry)** and Bori's Book to **Ferry Ticket Seller Chau (Jangan West Ferry)**.<br>Return back to **Herbalist Yangyun**.<br><br>**Required Quest: LV 7 "Herb Delivery"** | EXP: 18,000<br><br>SP EXP: 4500<br>ITEM: 125 MP Recovery Potion (Small) |
@@ -64,7 +81,7 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 | White Tiger's Skin 3 | 8 | 1 | Starting NPC: **Specialty Trader Jodaesan**<br>Hunt **White Tiger (LV 18)** to collect **140 White Tiger's Skin**<br><br>**Required Quest: LV 8 "White Tiger's Skin 1"<br> Can't be completed at the same time with LV 8 "White Tiger's Skin 2"** | EXP: 186,120<br><br>SP EXP: 20,000<br>ITEM: Tiger's Strength (Phy/Mag damage 20% Increase for 1 hour) |
 | Folk Remedy | 9 | 1 | Starting NPC: **Ferry Ticket Seller Chau (Jangan West Ferry)**<br>Hunt **Chakji Worker (LV 19) / Chakji (LV 20)** to collect **70 Chakji's Eye** | EXP: 246,100<br><br>SP EXP: 25,000<br>GOLD: 28,500 |
 
-# 2. Constantinople (and Eastern Europe)
+# 3. Constantinople (and Eastern Europe)
 
 | QUEST NAME | LEVEL | REPEAT | DESCRIPTION | REWARD |
 |---|---|---|---|---|
@@ -89,7 +106,6 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 | Ares' Spear | 3 | 1 | Starting NPC: **Sunset Witch (Constantinople Witch’s Lighthouse)**<br>Kill **Brontes (LV 13)** to acquire **1 Ares' Spear** | EXP: 33,660<br>SP EXP: 5000<br>ITEM: Pursuer Valor (Phy/Mag damage 20% absorption for 1 hour) |
 | Running from Chaser 1 | 4 | 1 | Starting NPC: **Sunset Witch (Constantinople Witch’s Lighthouse)**<br>Kill **Aduna Ladon (LV 14)** to acquire **50 Aduna Ladon’s Scale** | EXP: 87,060<br>SP EXP: 12,500<br>GOLD: 14,000 |
 | Running from Chaser 2 | 4 | 1 | Starting NPC: **Sunset Witch (Constantinople Witch’s Lighthouse)**<br>Send Aduna Ladon’s Scale to **Weapon Trader Balbardo (Constantinople)**, then send Scale Box back to **Sunset Witch (Constantinople Witch’s Lighthouse)**<br><br>**Required Quest: LV 4 "Running from Chaser 1"** | ITEM: Pursuer End (Attack rate 20% Increase for 1 hour) |
-| Inventory Expansion 1 (Europe) | 5 | 1 | Starting NPC: **Grocery Trader Bajel (Constantinople)**<br>Kill **Movoi (LV 2)** to collect **10 Movoi’s Grass** | 10 inventory slots |
 | Capturing Simos Ladon 1 | 5 | 1 | Starting NPC: **Sunset Witch (Constantinople Witch’s Lighthouse)**<br>Talk to **Hunter Associate Adria (Constantinople)** | SP EXP: 750 |
 | Capturing Simos Ladon 2 | 5 | 1 | Starting NPC: **Hunter Associate Adria (Constantinople)**<br>Kill **Polipemos (LV 15)** to acquire **30 Wind Powder**<br><br>**Required Quest: LV 5 "Capturing Simos Ladon 1"** | EXP: 77,360<br>SP EXP: 10,000 |
 | Capturing Simos Ladon 3 | 6 | 1 | Starting NPC: **Hunter Associate Adria (Constantinople)**<br>Deliver Wind Pouch to **Sunset Witch (Constantinople Witch’s Lighthouse)**<br><br>**Required Quest: LV 6 "Capturing Simos Ladon 2"** | SP EXP: 750 |
@@ -107,7 +123,7 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 | Cerberus 2 | 9 | 1 | Starting NPC: **Sunset Witch (Constantinople Witch’s Lighthouse)**<br>Kill **Selene's Lion (LV 19)** for **40 Dark Manes**<br><br>**Required Quest: LV 9 "Cerberus 1"** | EXP: 122,580<br>SP EXP: 13,400 |
 | Cerberus 3 | 10 | 1 | Starting NPC: **Sunset Witch (Constantinople Witch’s Lighthouse)**<br>Go to Jupiter Temple, the pain plaza (X:-12390, Y:960). Right click Call of Hell to summon **Hell Cerberus (LV 24)**, it will appear next to you after a while. Only the party leader can do that. Kill it.<br><br>**Required Quest: LV 9 "Cerberus 2"**<br>**Required: Exp & Item Auto share Party** | EXP: 28,300<br>ITEM: Cry of Peace (Phy/Mag damage 30% Increase for 3 hours) |
 
-# 3. Donwhang
+# 4. Donwhang
 
 | QUEST NAME | LEVEL | REPEAT | DESCRIPTION | REWARD |
 |---|---|---|---|---|
@@ -149,9 +165,8 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 | Broken Paddle | 30 | 1 | Starting NPC: **Boat Ticket Seller Salmai (Donwhang North Tarim Ferry)**<br>Hunt **Hyeongcheon (LV 30)** to collect **70 Hard Stone**. Finish the quest at **Blacksmith Agol**. | EXP: 516,300 |
 | Seeking Paddle Material | 30 | 1 | Starting NPC: **Blacksmith Agol**<br>Hunt **Red-Eye Ghost (LV 41) / Dark-Eye Ghost (LV 42)** to collect **70 Agol’s Iron**.<br><br>**Required Quest: LV 30 "Broken Paddle"** | EXP: 589,300 |
 | Delivering Paddle | 30 | 1 | Starting NPC: **Blacksmith Agol**<br>Deliver **50 Sturdy Paddle** to **Boat Ticket Seller Salmai (Donwhang North Tarim Ferry)**<br><br>**Required Quest: LV 30 "Seeking Paddle Material"** | EXP: 221,500<br>SP EXP: 50,000<br>ITEM: 5 Order of Instant Return (Return Scroll) |
-| Inventory Expansion 2 (China) | 30 | 1 | Starting NPC: **Grocery Trader Yeosun**<br>Kill **Earth Taoist (LV 30)** to collect **20 Magic Charm**<br><br>**Required Quest: LV 5 "Inventory Expansion 1 (China)"** | 4 inventory slots |
 
-# 4. Samarkand (Asia Minor and Central Asia)
+# 5. Samarkand (Asia Minor and Central Asia)
 
 | QUEST NAME | LEVEL | REPEAT | DESCRIPTION | REWARD |
 |---|---|---|---|---|
@@ -201,14 +216,13 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 | Heartbroken | 28 | 1 | Starting NPC: **Merchant Associate Karen (Samarkand)**<br>Kill **Sungsung (LV 38)** to obtain **18 Sungsung’s Bones** | EXP: 1,005,140<br>SP EXP: 12,500<br>GOLD: 30,000 |
 | Defeating Goria 1 | 29 | 1 | Starting NPC: **Merchant Associate Karen (Samarkand)**<br>Deliver Karen’s Recommendation to **Hunter Associate Shahad (Samarkand)**. | EXP: 5800<br>SP EXP: 150<br>GOLD: 370 |
 | Defeating Goria 2 | 29 | 1 | Starting NPC: **Hunter Associate Shahad (Samarkand)**<br>Kill **Stone Golem (LV 39)** to obtain **70 Spirit Added Stones**<br><br>**Required Quest: LV 29 "Defeating Goria 1"** | EXP: 415,800<br>SP EXP: 5000<br>GOLD: 12,400 |
-| Inventory Expansion 2 (Europe) | 30 | 1 | Starting NPC: **Grocery Trader Saha (Samarkand)**<br>Kill **Punisher (LV 30)** to obtain **20 Other World’s Fur** | 4 inventory slots |
 | Defeating Goria 3 | 30 | 1 | Starting NPC: **Hunter Associate Shahad (Samarkand)**<br>Talk to **Soldier Jooha (Samarkand East Gate)**, go back to **Hunter Associate Shahad (Samarkand)**<br><br>**Required Quest: LV 29 "Defeating Goria 2"** | EXP: 11,890<br>SP EXP: 300<br>GOLD: 750 |
 | Defeating Goria 4 | 30 | 1 | Starting NPC: **Hunter Associate Shahad (Samarkand)**<br>Kill **Rock Golem (LV 40)** to obtain **20 Angular Stones**<br><br>**Required Quest: LV 30 "Defeating Goria 3"** | EXP: 203,000<br>SP EXP: 5000<br>GOLD: 12,400 |
 | Defeating Goria 5 | 30 | 1 | Starting NPC: **Hunter Associate Shahad (Samarkand)**<br>Hunt **Angry Sungsung (LV 40)** near Pamir Plateau at the Southern river crossing (X:-3530 Y:2140) to obtain **1 Angry Sungsung’s Hair**<br><br>**Required Quest: LV 30 "Defeating Goria 4"** | EXP: 31,900<br>SP EXP: 800<br>GOLD: 200 |
 | Defeating Goria 6 | 30 | 1 | Starting NPC: **Hunter Associate Shahad (Samarkand)**<br>Right click Hun Tribe Capture Trap near **Hun Magic Archer (LV 40)**. Make it walk or run through the trap. If successful, it is captured. Go back to **Hunter Associate Shahad** to finish the quest. Return Scrolls, Reverse Return Scrolls or teleports are allowed.<br><br>**Required Quest: LV 30 "Defeating Goria 5"** | ITEM: Courage Scroll (Phy/Mag damage 20% Increase for 1 hour) |
 | Defeating Goria 7 | 30 | 1 | Starting NPC: **Hunter Associate Shahad (Samarkand)**<br>Go to Huns Garrison (X:-4440, Y:2595). Right click Big Drum to summon **Goria (LV 40)**. It will appear next to you after a while. Only the party leader can do that. Kill it. Return to **Hunter Associate Shahad**.<br><br>**Required Quest: LV 30 "Defeating Goria 6"**<br>**Required: Exp & Item Auto share Party** | EXP: 159,500<br>SP EXP: 4000<br>ITEM: Mission Complete Reward (MaximumHP 400 Increase and MaximumMP 400 Increase for 3 hours) |
 
-# 5. Hotan
+# 6. Hotan
 
 | QUEST NAME | LEVEL | REPEAT | DESCRIPTION | REWARD |
 |---|---|---|---|---|
@@ -251,9 +265,8 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 | Very Useful Cooking Ingredient | 53 | 1 | Starting NPC: **Potion Merchant Manina**<br>Hunt **Big White Spider (LV 58)** to collect **70 Spider Leg** | EXP: 2,148,980<br>SP EXP: 25,000<br>GOLD: 85,000 |
 | The Berserk Giants | 54 | 1 | Starting NPC: **Soldier Batu (West Gate)**<br>Hunt **300 Yeti (LV 59)** | EXP: 2,148,980<br>SP EXP: 26,000<br>GOLD: 84,000 |
 | Subjugating the God of Evil | 55 | 1 | Starting NPC: **Hunter Associate Ahmok**<br>Hunt **300 Devil Yeti (LV 60)** | EXP: 2,148,980<br>SP EXP: 28,000<br>GOLD: 82,000 |
-| Inventory Expansion 3 (Common) | 60 | 1 | Starting NPC: **Jewel Lapidary Mamoje**<br>Kill **Big White Spider (LV 58)** to collect **30 Strong Spider Web**<br><br>**Required Quest: LV 30 “Inventory Expansion 2 (China)”** or **LV 30 “Inventory Expansion 2 (Europe)”** | 4 inventory slots |
 
-# 6. Donwhang Stone Cave
+# 7. Donwhang Stone Cave
 
 | QUEST NAME | LEVEL | REPEAT | DESCRIPTION | REWARD |
 |---|---|---|---|---|
@@ -266,7 +279,7 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 | Paedo’s Request | 60 | 3 | Starting NPC: **Storage-Keeper Paedo (Donwhang)**<br>Hunt **Gold-Silver Yacha (LV 69)** / **Diamond Yacha (LV 70)** --- CAVE 4F to collect **130 Diamond Piece** and **130 Gold Piece** | EXP: 8,275,100<br>GOLD: 375,000 |
 | Collecting Buddhist Scriptures | 60 | 1 | Starting NPC: **Buddhist Priest Hyeon (Donwhang)**<br>Collect 4 Buddhist Scriptures:<br>Goje’s Letter: **Earth Ghost Bug (LV 63) / Power Earth Ghost (LV 64)** --- CAVE 1F and 2F<br>Jipje’s Letter: **Earth Ghost Warrior (LV 65) / Blind Mole (LV 67) / Mole (LV 68)** --- CAVE 2F and 3F<br>Myelje’s Letter: **Diamond Yacha (LV 70)** --- CAVE 4F<br>Doje’s Letter: **Devil Mask Nachal (LV 70)** --- CAVE 4F<br><br>**Required Quest: LV 1 “Clearing Tomb Stone”** | EXP: 16,825,300<br>SP EXP: 24,000<br>GOLD: 425,000 |
 
-# 7. Taklamakan
+# 8. Taklamakan
 
 | QUEST NAME | LEVEL | REPEAT | DESCRIPTION | REWARD |
 |---|---|---|---|---|
