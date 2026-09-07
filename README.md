@@ -19,8 +19,9 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 
 **8. Taklamakan** 
 
-# WORK IN PROGRESS (WIP)
-**9. Roc Mountain** 
+**9. Roc Mountain**
+
+# WORK IN PROGRESS (WIP) 
 
 **10. Qin-Shi Tomb** 
 
@@ -301,3 +302,31 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 | The Rumor of Niya Shaman | 73 | 1 | Starting NPC: **Boat Ticket Seller Ahgon (Hotan)**<br>Hunt **300 Niya Shaman (LV 78)** | EXP: 14,494,000<br>SP EXP: 90,000<br>GOLD: 340,000 |
 | The Secret of the Resurrection | 74 | 1 | Starting NPC: **Blacksmith Soboi (Hotan)**<br>Hunt **Niya Royal Guard (LV 79)** to collect **70 Piece of Curse** | EXP: 14,494,000<br>SP EXP: 91,000<br>GOLD: 339,000 |
 | The Water Drop of Magic | 75 | 1 | Starting NPC: **Jewel Lapidary Mamoje (Hotan)**<br>Hunt **Niya General (LV 80)** to collect **30 Water Drop of Magic** | EXP: 14,494,000<br>SP EXP: 90,000<br>GOLD: 340,000 |
+
+# 9. Roc Mountain
+
+| QUEST NAME | LEVEL | REPEAT | DESCRIPTION | REWARD |
+|---|---|---|---|---|
+| Stolen Sack | 60 | 1 | Starting NPC: **Village Chief Bukra (Roc Mountain Wind Town)**<br>Hunt **Feather Cloak (LV 70)** to collect **150 Food Sack** and **100 Life Essentials Sack** | EXP: 14’375’300<br>SP EXP: 50’000<br>GOLD: 240’000 |
+| Eliminating Black Eagles | 62 | 3 | Starting NPC: **Towner Salrihan (Rock Mountain Shepherd Town)**<br>Hunt **500 Black Eagle (LV 72)** | EXP: 7’516’000<br>GOLD: 311’000 |
+| Feather Tribe’s Revenge | 63 | 1 | Starting NPC: **Village Chief Bukra (Roc Mountain Wind Town)**<br>Hunt **500 Feather Mask (LV 73)** | EXP: 16’742’600<br>SP EXP: 80’000<br><br>ITEM: Feathermask’s Incantation (Attack rate 20% Increase for 2 hours) |
+| Horn’s Material | 65 | 3 | Starting NPC: **Slave Shifle (Roc Mountain Beak Peak)**<br>Hunt **Shaur (LV 75)** to collect **250 Mountain Goat’s Horn** | EXP: 8’156’000<br>GOLD: 355’000 |
+| Great Texture | 68 | 3 | Starting NPC: **Towner Anashya (Roc Mountain Wind Town)**<br>Hunt **Wing Tribe (LV 78)** to collect **150 White Feather** and **150 Black Feather** | EXP: 9’330’000<br>GOLD: 450’000 |
+| Sayun’s Request 1 | 70 | 1 | Starting NPC: **Aircraft Ticket Seller Sayun (Roc Mountain Southern Dock)**<br>Hunt **Wing Tribe Guardian (LV 80)** to collect **100 Guardian’s Crystal** | EXP: 18’537’600<br>SP EXP: 100’000<br>GOLD: 457’000 |
+| Sayun’s Request 2 | 70 | 1 | Starting NPC: **Aircraft Ticket Seller Sayun (Roc Mountain Southern Dock)**<br>Hunt **Wing Tribe Guardian Champion (LV 80)** to combine their spirit and **100 Guardian’s Crystal** into **100 Spirit Crystal**.<br><br>**Required: Exp & Item Auto share Party** | EXP: 8’020’600<br>SP EXP: 20’000<br><br>ITEM: 1 Certificate of Advanced Armor Gender Transfer (up to D9); 10 Spirit Fragment (Berserker 100% regeneration pill) |
+| Sayun’s Conspiracy | 72 | 1 | Starting NPC: **Aircraft Ticket Seller Ajati (Roc Mountain Northern Dock)**<br>Hunt **Antinoke (LV 82)** to collect **100 Antinoke’s Claw** | EXP: 11’917’400<br>SP EXP: 100’000<br>GOLD: 467’000 |
+| Ajati’s Request | 72 | 1 | Starting NPC: **Aircraft Ticket Seller Ajati (Roc Mountain Northern Dock)**<br>Deliver Ajati’s letter to **Towner Salrihan (Roc Mountain Shepherd Town)**. Then report back to **Aircraft Ticket Seller Ajati (Roc Mountain Northern Dock)**.<br><br>**Required Quest: LV 72 “Sayun’s Conspiracy”** | EXP: 2’705’000<br><br>ITEM: 5 Repair hammer |
+| Capturing Slow One | 72 | 1 | Starting NPC: **Aircraft Ticket Seller Ajati (Roc Mountain Northern Dock)**<br>Target **Slowantinoke (LV 82)**, right click Goat’s feed to capture it. Bring it back to **Aircraft Ticket Seller Ajati (Roc Mountain Northern Dock)** in 50 minutes since capture to finish the quest. Return Scrolls, Reverse Return Scrolls or teleports are allowed. Slowantinoke can be found on the road (X:-5100, Y:420) up to Eye Peak.<br><br>**Required Quest: LV 72 “Ajati’s Request”** | EXP: 2’863’000<br><br>ITEM: 3 Enduring fruit (Movement speed 75% Increase for 3 hours) |
+| Hunting Antelope | 73 | 3 | Starting NPC: **Slave Jabur (Roc Mountain Heart Peak)**<br>Hunt **500 Antelope (LV 83)** | EXP: 11’532’400<br>GOLD: 425’000 |
+| Rahid 1 | 73 | 1 | Starting NPC: **Towner Isan (Roc Mountain Lost Town)**<br>Talk to **Village Chief Bukra (Roc Mountain Wind Town)** | EXP: 2’634’000 |
+| Slave Escape Plan 1 | 75 | 3 | Starting NPC: **Slave Jabur (Roc Mountain Heart Peak)**<br>Hunt **500 Wing Tribe Chaser (LV 85)** | EXP: 3’945’000<br>GOLD: 145’000 |
+| Slave Escape Plan 2 | 75 | 1 | Starting NPC: **Slave Jabur (Roc Mountain Heart Peak)**<br>Deliver Escape plan (Shifle) to **Slave Shifle (Roc Mountain Beak Peak)**. Deliver Escape plan (Shapeur) to **Slave Shapeur (Roc Mountain Brain Peak)**. Bring back Shifle’s Escape Plan and Shapeur’s Escape Plan to **Slave Jabur (Roc Mountain Heart Peak)**.<br><br>**Required Quest: LV 75 “Slave Escape Plan 1” done once** | EXP: 2’693’000 |
+| Slave Escape Plan 3 | 75 | 1 | Starting NPC: **Slave Jabur (Roc Mountain Heart Peak)**<br>Deliver Shifle’s Key to **Slave Shifle (Roc Mountain Beak Peak)**. Return to **Slave Jabur (Roc Mountain Heart Peak)**.<br><br>**Required Quest: LV 75 “Slave Escape Plan 2”** | EXP: 2’609’000 |
+| Slave Escape Plan 4 | 75 | 1 | Starting NPC: **Slave Shifle (Roc Mountain Beak Peak)**<br>Hunt **10 Slave watcher (LV 85)**. One at a time respawns every once in a while next to you.<br><br>**Required Quest: LV 75 “Slave Escape Plan 3”** | EXP: 2’573’000<br><br>ITEM: 5 Strong resurrection scroll (100% Resurrection Scroll) |
+| Revenge of the Lambs | 77 | 3 | Starting NPC: **Towner Salrihan (Roc Mountain Shepherd Town)**<br>Hunt **500 Wing Tribe Attacker (LV 87)** | EXP: 7’845’000<br>GOLD: 445’000 |
+| Rahid 2 | 79 | 1 | Starting NPC: **Village Chief Bukra (Roc Mountain Wind Town)**<br>Option 2 (So you want my service for free…): Simply accept the quest and wait for 30 hours. The same reward will be awarded without collecting any feathers.<br>Option 1 (You sneaky old woman…): Hunt **Rocky (LV 88)** to collect **100 Rocky’s Feather**<br><br>**Required Quest: LV 73 “Rahid 1”** | EXP: 10’832’400<br>SP EXP: 67’000<br><br>ITEM: 3 Ability revolution scroll (Reallocate 100% of SP) |
+| Rahid 3 | 80 | 1 | Starting NPC: **Village Chief Bukra (Roc Mountain Wind Town)**<br>Talk to **Hunter Associate Ahmok (Hotan)** and ask him about Rahid. Return to **Village Chief Bukra (Roc Mountain Wind Town)**.<br><br>**Required Quest: LV 79 “Rahid 2”** | EXP: 2’826’000 |
+| Rahid 4 | 80 | 1 | Starting NPC: **Village Chief Bukra (Roc Mountain Wind Town)**<br>Ask **Slave Shifle (Roc Mountain Beak Peak)** about Rahid<br><br>**Required Quest: LV 80 “Rahid 3”** | EXP: 2’684’000 |
+| Rahid 5 | 80 | 1 | Starting NPC: **Slave Shifle (Roc Mountain Beak Peak)**<br>Hunt **Rocky Giant (LV 88)** to obtain **Vigor of Roc Mountain**. Each Rocky Giant (LV 88) provides 5 Vigor of Roc Mountain. Obtain 15-20 Vigor of Roc Mountain. Go near the altar in the seven peaks in this order: 1. Brain Peak, 2. Eye Peak, 3. Heart Peak, 4. Wing Peak, 5. Claw Peak, 6. Beak Peak, 7. Tail Peak. Collect **7 Pile of Rainbow Plant** by right clicking Vigor of Roc Mountain at every peak in the correct order. Return to **Slave Shifle (Roc Mountain Beak Peak)**.<br><br>**Required Quest: LV 80 “Rahid 4”** | EXP: 4’773’000<br>SP EXP: 320’000 |
+| Rahid 6 | 80 | 1 | Starting NPC: **Slave Shifle (Roc Mountain Beak Peak)**<br>Quest requires teleporting and defeating **Demon Shaitan (LV 90)**. Teleport is available via Slave Shifle (Roc Mountain Beak Peak). Party members that have finished at least LV 80 “Rahid 5” can be teleported to the area. Only the party leader can teleport party member to the area. Defeat Demon Shaitan (LV 90) to acquire **Silver Crescent Necklace**.<br><br>**Required Quest: LV 80 "Rahid 5"**<br>**Required: Exp & Item Auto share Party**<br>*N.B. Teleport to Demon Shaitan (LV) from Slave Shifle (Roc Mountain Beak Peak) is unavailable if transport methods are summoned.* | EXP: 2’573’000 |
+| Rahid 7 | 80 | 1 | Starting NPC: **Slave Shifle (Roc Mountain Beak Peak)**<br>Deliver Silver Cresent Necklace to **Towner Isan (Roc Mountain Lost Town)**<br><br>**Required Quest: LV 80 "Rahid 6"** | EXP: 3’513’000<br>SP EXP: 12’000<br><br>ITEM: Mother’s loving hand (MaximumHP 20% Increase and MaximumMP 20% Increase for 3 hours) |
