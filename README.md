@@ -301,7 +301,7 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 | The Secret of the Resurrection | 74 | 1 | Starting NPC: **Blacksmith Soboi (Hotan)**<br>Hunt **Niya Royal Guard (LV 79)** to collect **70 Piece of Curse** | EXP: 14,494,000<br>SP EXP: 91,000<br>GOLD: 339,000 |
 | The Water Drop of Magic | 75 | 1 | Starting NPC: **Jewel Lapidary Mamoje (Hotan)**<br>Hunt **Niya General (LV 80)** to collect **30 Water Drop of Magic** | EXP: 14,494,000<br>SP EXP: 90,000<br>GOLD: 340,000 |
 
-# 9. Roc Mountain
+# 9. Roc Mountain (and Roc)
 
 | QUEST NAME | LEVEL | REPEAT | DESCRIPTION | REWARD |
 |---|---|---|---|---|
