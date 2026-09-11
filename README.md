@@ -19,20 +19,18 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 
 **8. Taklamakan** 
 
-**9. Roc Mountain**
+**9. Roc Mountain (and Roc)**
 
 # WORK IN PROGRESS (WIP) 
 
-**10. Qin-Shi Tomb** 
+**10. Qin-Shi Tomb (and BeakYong)** 
 
 # FUTURE PLANS
 **11. Forgotten World** 
 
-**12. Roc** 
+**12. Blue Berserker** 
 
-**13. Blue Berserker** 
-
-**14. Alexandria and Egypt** 
+**13. Alexandria and Egypt** 
 
 # 1. Special
 
