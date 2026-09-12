@@ -28,9 +28,9 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 **11. Alexandria and Egypt** 
 
 # FUTURE PLANS
-**12. Forgotten World** 
+**12. Blue Berserker** 
 
-**13. Blue Berserker** 
+**13. Forgotten World** 
 
 # 1. Special
 
