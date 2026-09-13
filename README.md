@@ -3,25 +3,25 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 - Discord: **st.demiurgs**
 
 # CONTENT
-**1. Special**
+**1. [Special](#special)**
 
-**2. Jangan**
+**2. [Jangan](#jangan)**
 
-**3. Constantinople (and Eastern Europe)** 
+**3. [Constantinople (and Eastern Europe)](#constantinople)** 
 
-**4. Donwhang** 
+**4. [Donwhang](#donwhang)** 
 
-**5. Samarkand (Asia Minor and Central Asia)** 
+**5. [Samarkand (Asia Minor and Central Asia)](#samarkand)** 
 
-**6. Hotan** 
+**6. [Hotan](#hotan)** 
 
-**7. Donwhang Stone Cave** 
+**7. [Donwhang Stone Cave](#donwhang-stone-cave)** 
 
-**8. Taklamakan** 
+**8. [Taklamakan](#taklamakan)** 
 
-**9. Roc Mountain (and Roc)**
+**9. [Roc Mountain (and Roc)](#roc-mountain)**
 
-**10. Qin-Shi Tomb (and BeakYong)** 
+**10. [Qin-Shi Tomb (and BeakYong)](#qin-shi-tomb)** 
 
 # WORK IN PROGRESS (WIP) 
 
@@ -32,6 +32,7 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 
 **13. Forgotten World** 
 
+<a id="special"></a>
 # 1. Special
 
 | QUEST NAME | LEVEL | REPEAT | DESCRIPTION | REWARD |
@@ -49,6 +50,9 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 | Roc Mountain Trade Market | 70 | 1 | Starting NPC: **Specialty Trader Osaman (Roc Mountain Wind Town)**<br><br>Deliver Osaman’s Delivery Box to **Towner Salrihan (Roc Mountain Shepherd Town)**. Return back to **Specialty Trader Osaman (Roc Mountain Wind Town)** with Salrihan’s Delivery Check Card.<br>Hunt **20 Feather Cloak (LV 70)**<br><br>**Required: equipped White Flag / Red Flag / Body Bronze Bag / Mental Bronze Bag (Trader job flag) to start the quest** | Opens up trading from and to Specialty Trader Osaman (Roc Mountain Wind Town)<br><br>ITEM: 10 Fire bull (LV 60) |
 | Inventory Expansion 4 (Common) | 90 | 1 | Starting NPC: **Towner Anashya (Roc Mountain Wind Town)**<br><br>Kill **Rocky (LV 88)** to collect **50 Light feather**<br><br>**Required Quest: LV 60 “Inventory Expansion 3 (Common)”** | 4 inventory slots |
 
+[⬆ Back to Top](#content)
+
+<a id="jangan"></a>
 # 2. Jangan
 
 | QUEST NAME | LEVEL | REPEAT | DESCRIPTION | REWARD |
@@ -81,6 +85,9 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 | White Tiger's Skin 3 | 8 | 1 | Starting NPC: **Specialty Trader Jodaesan**<br><br>Hunt **White Tiger (LV 18)** to collect **140 White Tiger's Skin**<br><br>**Required Quest: LV 8 "White Tiger's Skin 1"<br> Can't be completed at the same time with LV 8 "White Tiger's Skin 2"** | EXP: 186,120<br><br>SP EXP: 20,000<br>ITEM: Tiger's Strength (Phy/Mag damage 20% Increase for 1 hour) |
 | Folk Remedy | 9 | 1 | Starting NPC: **Ferry Ticket Seller Chau (Jangan West Ferry)**<br><br>Hunt **Chakji Worker (LV 19) / Chakji (LV 20)** to collect **70 Chakji's Eye** | EXP: 246,100<br><br>SP EXP: 25,000<br>GOLD: 28,500 |
 
+[⬆ Back to Top](#content)
+
+<a id="constantinople"></a>
 # 3. Constantinople (and Eastern Europe)
 
 | QUEST NAME | LEVEL | REPEAT | DESCRIPTION | REWARD |
@@ -123,6 +130,9 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 | Cerberus 2 | 9 | 1 | Starting NPC: **Sunset Witch (Constantinople Witch’s Lighthouse)**<br><br>Kill **Selene's Lion (LV 19)** for **40 Dark Manes**<br><br>**Required Quest: LV 9 "Cerberus 1"** | EXP: 122,580<br>SP EXP: 13,400 |
 | Cerberus 3 | 10 | 1 | Starting NPC: **Sunset Witch (Constantinople Witch’s Lighthouse)**<br><br>Go to Jupiter Temple, the pain plaza (X:-12390, Y:960). Right click Call of Hell to summon **Hell Cerberus (LV 24)**, it will appear next to you after a while. Only the party leader can do that. Kill it.<br><br>**Required Quest: LV 9 "Cerberus 2"**<br>**Required: Exp & Item Auto share Party** | EXP: 28,300<br>ITEM: Cry of Peace (Phy/Mag damage 30% Increase for 3 hours) |
 
+[⬆ Back to Top](#content)
+
+<a id="donwhang"></a>
 # 4. Donwhang
 
 | QUEST NAME | LEVEL | REPEAT | DESCRIPTION | REWARD |
@@ -166,6 +176,9 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 | Seeking Paddle Material | 30 | 1 | Starting NPC: **Blacksmith Agol**<br><br>Hunt **Red-Eye Ghost (LV 41) / Dark-Eye Ghost (LV 42)** to collect **70 Agol’s Iron**.<br><br>**Required Quest: LV 30 "Broken Paddle"** | EXP: 589,300 |
 | Delivering Paddle | 30 | 1 | Starting NPC: **Blacksmith Agol**<br><br>Deliver **50 Sturdy Paddle** to **Boat Ticket Seller Salmai (Donwhang North Tarim Ferry)**<br><br>**Required Quest: LV 30 "Seeking Paddle Material"** | EXP: 221,500<br>SP EXP: 50,000<br>ITEM: 5 Order of Instant Return (Return Scroll) |
 
+[⬆ Back to Top](#content)
+
+<a id="samarkand"></a>
 # 5. Samarkand (Asia Minor and Central Asia)
 
 | QUEST NAME | LEVEL | REPEAT | DESCRIPTION | REWARD |
@@ -222,6 +235,9 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 | Defeating Goria 6 | 30 | 1 | Starting NPC: **Hunter Associate Shahad (Samarkand)**<br><br>Right click Hun Tribe Capture Trap near **Hun Magic Archer (LV 40)**. Make it walk or run through the trap. If successful, it is captured. Go back to **Hunter Associate Shahad** to finish the quest. Return Scrolls, Reverse Return Scrolls or teleports are allowed.<br><br>**Required Quest: LV 30 "Defeating Goria 5"** | ITEM: Courage Scroll (Phy/Mag damage 20% Increase for 1 hour) |
 | Defeating Goria 7 | 30 | 1 | Starting NPC: **Hunter Associate Shahad (Samarkand)**<br><br>Go to Huns Garrison (X:-4440, Y:2595). Right click Big Drum to summon **Goria (LV 40)**. It will appear next to you after a while. Only the party leader can do that. Kill it. Return to **Hunter Associate Shahad**.<br><br>**Required Quest: LV 30 "Defeating Goria 6"**<br>**Required: Exp & Item Auto share Party** | EXP: 159,500<br>SP EXP: 4000<br>ITEM: Mission Complete Reward (MaximumHP 400 Increase and MaximumMP 400 Increase for 3 hours) |
 
+[⬆ Back to Top](#content)
+
+<a id="hotan"></a>
 # 6. Hotan
 
 | QUEST NAME | LEVEL | REPEAT | DESCRIPTION | REWARD |
@@ -266,6 +282,9 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 | The Berserk Giants | 54 | 1 | Starting NPC: **Soldier Batu (West Gate)**<br><br>Hunt **300 Yeti (LV 59)** | EXP: 2,148,980<br>SP EXP: 26,000<br>GOLD: 84,000 |
 | Subjugating the God of Evil | 55 | 1 | Starting NPC: **Hunter Associate Ahmok**<br><br>Hunt **300 Devil Yeti (LV 60)** | EXP: 2,148,980<br>SP EXP: 28,000<br>GOLD: 82,000 |
 
+[⬆ Back to Top](#content)
+
+<a id="donwhang-stone-cave"></a>
 # 7. Donwhang Stone Cave
 
 | QUEST NAME | LEVEL | REPEAT | DESCRIPTION | REWARD |
@@ -279,6 +298,9 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 | Paedo’s Request | 60 | 3 | Starting NPC: **Storage-Keeper Paedo (Donwhang)**<br><br>Hunt **Gold-Silver Yacha (LV 69)** / **Diamond Yacha (LV 70)** --- CAVE 4F to collect **130 Diamond Piece** and **130 Gold Piece** | EXP: 8,275,100<br>GOLD: 375,000 |
 | Collecting Buddhist Scriptures | 60 | 1 | Starting NPC: **Buddhist Priest Hyeon (Donwhang)**<br><br>Collect 4 Buddhist Scriptures:<br>Goje’s Letter: **Earth Ghost Bug (LV 63) / Power Earth Ghost (LV 64)** --- CAVE 1F and 2F<br>Jipje’s Letter: **Earth Ghost Warrior (LV 65) / Blind Mole (LV 67) / Mole (LV 68)** --- CAVE 2F and 3F<br>Myelje’s Letter: **Diamond Yacha (LV 70)** --- CAVE 4F<br>Doje’s Letter: **Devil Mask Nachal (LV 70)** --- CAVE 4F<br><br>**Required Quest: LV 1 “Clearing Tomb Stone”** | EXP: 16,825,300<br>SP EXP: 24,000<br>GOLD: 425,000 |
 
+[⬆ Back to Top](#content)
+
+<a id="taklamakan"></a>
 # 8. Taklamakan
 
 | QUEST NAME | LEVEL | REPEAT | DESCRIPTION | REWARD |
@@ -301,6 +323,9 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 | The Secret of the Resurrection | 74 | 1 | Starting NPC: **Blacksmith Soboi (Hotan)**<br><br>Hunt **Niya Royal Guard (LV 79)** to collect **70 Piece of Curse** | EXP: 14,494,000<br>SP EXP: 91,000<br>GOLD: 339,000 |
 | The Water Drop of Magic | 75 | 1 | Starting NPC: **Jewel Lapidary Mamoje (Hotan)**<br><br>Hunt **Niya General (LV 80)** to collect **30 Water Drop of Magic** | EXP: 14,494,000<br>SP EXP: 90,000<br>GOLD: 340,000 |
 
+[⬆ Back to Top](#content)
+
+<a id="roc-mountain"></a>
 # 9. Roc Mountain (and Roc)
 
 | QUEST NAME | LEVEL | REPEAT | DESCRIPTION | REWARD |
@@ -343,6 +368,9 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 | Exchanging prize (Sylph spirit) | 80 | unlimited | Starting NPC: **Nephrite Refiner Pahap (Hotan Palace)**<br><br>Talk to **Nephrite Refiner Pahap (Hotan Palace)** and bring **3 Sylph Spirit**. They can be obtained by killing unique Devil Shaitan (LV 100) in Gate of Ruler area.<br><br>**Required: Having 3 Sylph Spirit in inventory to access the quest** | ITEM: 1 Magic stone of Sorrow(Lvl. 10) |
 | Exchanging prize (Gnome spirit) | 80 | unlimited | Starting NPC: **Nephrite Refiner Pahap (Hotan Palace)**<br><br>Talk to **Nephrite Refiner Pahap (Hotan Palace)** and bring **3 Gnome Spirit**. They can be obtained by killing unique Devil Shaitan (LV 100) in Gate of Ruler area.<br><br>**Required: Having 3 Gnome Spirit in inventory to access the quest** | ITEM: 1 Magic stone of IronHeard(Lvl. 10) |
 
+[⬆ Back to Top](#content)
+
+<a id="qin-shi-tomb"></a>
 # 10. Qin-Shi Tomb (and BeakYong)
 
 | QUEST NAME | LEVEL | REPEAT | DESCRIPTION | REWARD |
