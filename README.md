@@ -86,8 +86,8 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 | QUEST NAME | LEVEL | REPEAT | DESCRIPTION | REWARD |
 |---|---|---|---|---|
 | Retaldi's Anxiety | 1 | 1 | Starting NPC: **Nun Retaldi (Constantinople)**<br><br>Hunt **15 Graesps (LV 3)** | EXP: 1410<br>SP EXP: 100<br>ITEM: Nun's Prayer (MaximumHP 100 Increase for 1 hour) |
-| Tana's Hankerchief | 1 | 1 | Starting NPC: **Nun Retaldi (Constantinople)**<br>Deliver Tana’s Hankerchief to **Merchant Associate Tana (Constantinople)** | SP EXP: 300 |
-| Sister's Love 1 | 1 | 1 | Starting NPC: **Merchant Associate Tana (Constantinople)**<br>Kill **Edenp (LV 4)** to collect **2 Twinkling Hairpins**<br><br>**Required Quest: LV 1 "Tana's Hankerchief"** | EXP: 350<br>SP EXP: 200<br>GOLD: 200 |
+| Tana's Hankerchief | 1 | 1 | Starting NPC: **Nun Retaldi (Constantinople)**<br><br>Deliver Tana’s Hankerchief to **Merchant Associate Tana (Constantinople)** | SP EXP: 300 |
+| Sister's Love 1 | 1 | 1 | Starting NPC: **Merchant Associate Tana (Constantinople)**<br><br>Kill **Edenp (LV 4)** to collect **2 Twinkling Hairpins**<br><br>**Required Quest: LV 1 "Tana's Hankerchief"** | EXP: 350<br>SP EXP: 200<br>GOLD: 200 |
 | Sister's Love 2 | 1 | 1 | Starting NPC: **Merchant Associate Tana (Constantinople)**<br><br>Deliver Twinkling Hairpin to **Specialty Trader Tina (Constantinople)**<br><br>**Required Quest: LV 1 "Sister's Love 1"** | EXP: 750<br>SP EXP: 1000<br>GOLD: 500 |
 | Forming Party | 1 | 1 | Starting NPC: **Specialty Trader Tina (Constantinople)**<br><br>Set up a Exp & Item Auto share Party | SP EXP: 350 |
 | Hunting Wolf | 1 | 1 | Starting NPC: **Specialty Trader Tina (Constantinople)**<br><br>Kill **20 Baroi Wolf (LV 5)** | EXP: 4160<br>SP EXP: 1500<br>GOLD: 950 |
