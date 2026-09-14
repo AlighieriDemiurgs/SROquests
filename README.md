@@ -25,10 +25,10 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 
 # WORK IN PROGRESS (WIP) 
 
-**11. Alexandria and Egypt** 
+**11. Alexandria (and Egypt; Superhuman of the Desert; Devil of the Century; Fight for the Temple)** 
 
 # FUTURE PLANS
-**12. Blue Berserker** 
+**12. Special (Blue Berserker)** 
 
 **13. Forgotten World** 
 
