@@ -30,7 +30,7 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 # FUTURE PLANS
 **12. Special (Blue Berserker)** 
 
-**13. Forgotten World** 
+**13. Forgotten World (The Phantom of the Crimson Blood, The Burning Abyss, The Green Abyss, The Sea of Resentment)** 
 
 <a id="special"></a>
 # 1. Special
