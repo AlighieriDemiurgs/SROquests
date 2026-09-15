@@ -29,7 +29,7 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 
 # FUTURE PLANS
 **12. Blue Berserker** 
-- Will be added to 'Special' quests list. Just like in-game 'H' Quest Dictionary has it. Will mention before starting NPC that this is a Blue Berserker quest.
+- Will be added to 'Special' quests list. Just like in-game 'H' Quest Dictionary has it. Will mention before the starting NPC that this is a Blue Berserker quest.
 
 **13. Forgotten World (The Phantom of the Crimson Blood, The Burning Abyss, The Green Abyss, The Sea of Resentment)** 
 
