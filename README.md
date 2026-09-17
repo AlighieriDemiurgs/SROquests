@@ -19,20 +19,24 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 
 **8. [Taklamakan](#taklamakan)** 
 
-**9. [Roc Mountain (and Roc)](#roc-mountain)**
+**9. [Roc Mountain](#roc-mountain)**
 
-**10. [Qin-Shi Tomb (and BeakYong)](#qin-shi-tomb)** 
+**10. [Roc](#roc)**
+
+**11. [Qin-Shi Tomb (and BeakYong)](#qin-shi-tomb)** 
 
 # WORK IN PROGRESS (WIP) 
 
-**11. Alexandria (and Egypt, Superhuman of the Desert, Devil of the Century, Fight for the Temple)** 
+**12. Alexandria (and Egypt, Superhuman of the Desert, Devil of the Century)** 
 
-**12. Blue Berserker** 
+**13. Fight for the Temple** 
+
+**14. Blue Berserker** 
 - Will be added to 'Special' quests list. Just like in-game 'H' Quest Dictionary has it. Will mention before the starting NPC that this is a Blue Berserker quest.
 
 # FUTURE PLANS
 
-**13. Forgotten World (The Phantom of the Crimson Blood, The Burning Abyss, The Green Abyss, The Sea of Resentment)** 
+**15. Forgotten World (The Phantom of the Crimson Blood, The Burning Abyss, The Green Abyss, The Sea of Resentment)** 
 
 <a id="special"></a>
 # 1. Special
@@ -328,7 +332,7 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 [⬆ Back to Top](#content)
 
 <a id="roc-mountain"></a>
-# 9. Roc Mountain (and Roc)
+# 9. Roc Mountain
 
 | QUEST NAME | LEVEL | REPEAT | DESCRIPTION | REWARD |
 |---|---|---|---|---|
@@ -355,6 +359,13 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 | Rahid 5 | 80 | 1 | Starting NPC: **Slave Shifle (Roc Mountain Beak Peak)**<br><br>Hunt **Rocky Giant (LV 88)** to obtain **Vigor of Roc Mountain**. Each Rocky Giant (LV 88) provides 5 Vigor of Roc Mountain. Obtain 15-20 Vigor of Roc Mountain. Go near the altar in the seven peaks in this order: 1. Brain Peak, 2. Eye Peak, 3. Heart Peak, 4. Wing Peak, 5. Claw Peak, 6. Beak Peak, 7. Tail Peak. Collect **7 Pile of Rainbow Plant** by right clicking Vigor of Roc Mountain at every peak in the correct order. Return to **Slave Shifle (Roc Mountain Beak Peak)**.<br><br>**Required Quest: LV 80 “Rahid 4”** | EXP: 4,773,000<br>SP EXP: 320,000 |
 | Rahid 6 | 80 | 1 | Starting NPC: **Slave Shifle (Roc Mountain Beak Peak)**<br><br>Quest requires teleporting and defeating **Mine shaitan (LV 90)** in 20 minutes. Teleport is available via Slave Shifle (Roc Mountain Beak Peak). Party members that have finished at least LV 80 “Rahid 5” can be teleported to the area. Only the party leader can teleport party member to the area. Defeat Mine shaitan (LV 90) to acquire **Silver Crescent Necklace**.<br><br>**Required Quest: LV 80 "Rahid 5"**<br>**Required: Exp & Item Auto share Party**<br>**N.B. A player who has finished the quest can still join in to help others**<br><br>N.B. Teleport to Mine shaitan (LV 90) from Slave Shifle (Roc Mountain Beak Peak) is unavailable if transport methods are summoned. | EXP: 2,573,000 |
 | Rahid 7 | 80 | 1 | Starting NPC: **Slave Shifle (Roc Mountain Beak Peak)**<br><br>Deliver Silver Cresent Necklace to **Towner Isan (Roc Mountain Lost Town)**<br><br>**Required Quest: LV 80 "Rahid 6"** | EXP: 3,513,000<br>SP EXP: 12,000<br>ITEM: Mother’s loving hand (MaximumHP 20% Increase and MaximumMP 20% Increase for 3 hours) |
+
+[⬆ Back to Top](#content)
+
+<a id="roc"></a>
+# 10. Roc
+| QUEST NAME | LEVEL | REPEAT | DESCRIPTION | REWARD |
+|---|---|---|---|---|
 | Test of village chief | 80 | unlimited | Starting NPC: **Village Chief Bukra (Roc Mountain Wind Town)**<br><br>Talk to **Slave Jabur (Roc Mountain Heart Peak)** to obtain **Slave’s Lithogaphy**. Hunt **Paeders scout (LV 90)** to acquire **Scout voucher**. Paeders scout (LV 90) can be found on the road North (X:-3440, Y:880) of Brain Peak. Then hunt **Black-eagle commender (LV 90)** to acquire **Commander voucher**. Black-eagle commender (LV 90) can be found further on the road North (X:-3715, Y:950) of Brain Peak. Return back to **Village Chief Bukra (Roc Mountain Wind Town)**. | --- |
 | Preparation of material 1 | 80 | unlimited | Starting NPC: **Village Chief Bukra (Roc Mountain Wind Town)**<br><br>Hunt **Wing Tribe (LV 78)** / **Wing Tribe Guardian (LV 80)** to collect **5 Red Spirit Stone**. Hunt **Wing Tribe Chaser (LV 85)** / **Wing Tribe Attacker (LV 87)** to collect **7 Blue Spirit Stone**. Return back to **Village Chief Bukra (Roc Mountain Wind Town)**.<br><br>**Required Quest: LV 80 “Test of village chief”** | --- |
 | Preparation of material 2 | 80 | unlimited | Starting NPC: **Village Chief Bukra (Roc Mountain Wind Town)**<br><br>Hunt **7 Guardroky** on the very peaks of Roc Mountain: Guardroky-brain, Guardroky-eye, Guardroky-heart, Guardroky-wing, Guardroky-claw, Guardroky-beak, Guardroky-tail to turn Spirit Essence into Guardian’s Spirit Stone. Each Guardroky has to be killed once. Return back to **Village Chief Bukra (Roc Mountain Wind Town)**.<br><br>**Required Quest: LV 80 “Preparation of material 1”**<br>**Required: Exp & Item Auto share Party for kills to count** | ITEM: 1 Key of Bloodline, 1 Proof of Alliance (recovery), 1 Proof of Alliance (Combat), 1 Proof of Alliance (Revival) |
@@ -373,7 +384,7 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 [⬆ Back to Top](#content)
 
 <a id="qin-shi-tomb"></a>
-# 10. Qin-Shi Tomb (and BeakYong)
+# 11. Qin-Shi Tomb (and BeakYong)
 
 | QUEST NAME | LEVEL | REPEAT | DESCRIPTION | REWARD |
 |---|---|---|---|---|
