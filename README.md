@@ -27,16 +27,22 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 
 # WORK IN PROGRESS (WIP) 
 
-**12. Alexandria (and Egypt, Superhuman of the Desert, Devil of the Century)** 
+**12. Alexandria** 
 
-**13. Fight for the Temple** 
+**13. Egypt**
 
-**14. Blue Berserker** 
+**14. Superhuman of the Desert** 
+
+**15. Devil of the Century** 
+
+**16. Fight for the Temple** 
+
+**17. Blue Berserker** 
 - Will be added to 'Special' quests list. Just like in-game 'H' Quest Dictionary has it. Will mention before the starting NPC that this is a Blue Berserker quest.
 
 # FUTURE PLANS
 
-**15. Forgotten World (The Phantom of the Crimson Blood, The Burning Abyss, The Green Abyss, The Sea of Resentment)** 
+**18. Forgotten World (The Phantom of the Crimson Blood, The Burning Abyss, The Green Abyss, The Sea of Resentment)** 
 
 <a id="special"></a>
 # 1. Special
