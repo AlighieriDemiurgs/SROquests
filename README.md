@@ -1,5 +1,5 @@
 # AUTHOR
-Created and compiled by **Demiurgs** aka **Alighieri**
+Created and compiled by **Demiurgs**
 - Discord: **st.demiurgs**
 
 # CONTENT
