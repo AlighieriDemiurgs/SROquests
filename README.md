@@ -27,11 +27,11 @@ Created and compiled by **Demiurgs**
 
 **12. [Qin-Shi Tomb (and BeakYong)](#qin-shi-tomb)** 
 
+**13. [Egypt](#egypt)**
+
 # WORK IN PROGRESS (WIP) 
 
-**13. Alexandria** 
-
-**14. Egypt**
+**14. Alexandria**
 
 **15. Superhuman of the Desert** 
 
@@ -513,5 +513,67 @@ Created and compiled by **Demiurgs**
 | Eliminate the Threat | 89 | 1 | Starting NPC: **General Sonhyeon (Jangan Military Camp)**<br><br>Talk to **General Sonhyeon (Jangan Military Camp)**, he will teleport you to a special area. Defeat 4 Guardian Bests: **JeonUk The Black Tortoise (LV 98), YumJae The Blue Hawk (LV 98), TaeHo The Blue Dragon (LV 99), SoHaow The White Tiger (LV 99)** in 30 minutes.<br><br>**Required Quest: LV 89 "Campaign against the Tomb Snake" done once**<br>**Required: Exp & Item Auto share Party**<br>**N.B. A player who has finished the quest can still join in to help others**<br> | EXP: 6,200,100<br>SP EXP: 80,000<br>ITEM: 5 Intensifing Elixir(weapon) |
 | The Blood of the White Viper | 90 | 1 | Starting NPC: **WalYoung (Jangan Rich Village)**<br><br>Talk to **WalYoung (Jangan Rich Village)**, she will teleport you to a special area. Defeat **ShinMoo The man of Flames (LV 100), SoSo The Black Viper (LV 100), BeakYung The White Viper (LV 100)** in 30 minutes to turn Small Empty Bottle into Bottle With White Viper’s Blood. Return to **WalYoung (Jangan Rich Village)**.<br><br>**Required Quest: LV 89 "The Truth 1"**<br>**Required Quest: LV 89 "The Truth 2"**<br>**Required: Exp & Item Auto share Party**<br>**N.B. A player who has finished the quest can still join in to help others**<br> | EXP: 6,740,100<br>ITEM: Shine Tiger’s Eye Ring (D10 T3) |
 | Neutralize the Poison | 90 | 1 | Starting NPC: **WalYoung (Jangan Rich Village)**<br><br>Deliver the Bottle With White Viper’s Blood to **Bagger Sochil (Jangan Bar Street)**<br><br>**Required Quest: LV 90 "The Blood of the White Viper"** | EXP: 4,865,100<br>SP EXP: 10,000 |
+
+[⬆ Back to Top](#content)
+
+<a id="egypt"></a>
+# 13. Egypt
+
+| QUEST NAME | LEVEL | REPEAT | DESCRIPTION | REWARD |
+|---|---|---|---|---|
+| Meet the Governor (1) | 100 | 1 | Starting NPC: **Lighthouse Keeper Snefru (Alexandria Harbor)**<br><br>Talk to **Governor Senmute (Alexandria Trader/Hunter Area)** | EXP: 4,669,234<br>SP: 600<br>GOLD: 2340 |
+| Meet the Governor (2) | 100 | 1 | Starting NPC: **Governor Senmute (Alexandria Trader/Hunter Area)**<br><br>Hunt **50 Uneg (LV 100)**<br><br>**Required Quest: LV 100 “Meet the Governor (1)”** | EXP: 9,338,467<br>SP: 1100<br>GOLD: 2340 |
+| Managing the Harbor | 100 | 1 | Starting NPC: **Harbor Manager Marwa (Alexandria Harbor)**<br><br>Hunt **100 Uneg (LV 100)** and **100 Weneg (LV 100)** | EXP: 28,015,403<br>SP: 1600<br>GOLD: 9362 |
+| Tax Due Notice (Weapon Trader) | 101 | 1 | Starting NPC: **Finance Officer Maneto (Alexandria Library)**<br><br>Deliver Overdue Tax Warning Letter (Hemaka) to **Weapon Trader Hemaka (Alexandria Trader/Hunter Area)** | EXP: 4,809,311<br>SP: 700<br>GOLD: 2362 |
+| Tax Due Notice (Grocery Trader) | 101 | 1 | Starting NPC: **Finance Officer Maneto (Alexandria Library)**<br><br>Deliver Overdue Tax Warning Letter (Melit) to **Grocery Trader Melit (Alexandria Trader/Hunter Area)** | EXP: 4,809,311<br>SP: 700<br>GOLD: 2362 |
+| Tax Due Notice (Potion Marchant) | 101 | 1 | Starting NPC: **Finance Officer Maneto (Alexandria Library)**<br><br>Deliver Overdue Tax Warning Letter (Titi) to **Potion Merchant Titi (Alexandria Trader/Hunter Area)** | EXP: 4,809,311<br>SP: 700<br>GOLD: 2362 |
+| Tax Due Notice (Specialty Trader) | 101 | 1 | Starting NPC: **Finance Officer Maneto (Alexandria Library)**<br><br>Deliver Overdue Tax Warning Letter (Wasdi) to **Specialty Trader Wasdi (Alexandria Trader/Hunter Area)** | EXP: 4,809,311<br>SP: 700<br>GOLD: 2362 |
+| The Weapon Trader’s Tax Payment (1) | 101 | 1 | Starting NPC: **Weapon Trader Hemaka (Alexandria Trader/Hunter Area)**<br><br>Hunt **Weneg (LV 100)** to collect **50 Soft Green Leather**<br>Hunt **Tathen (LV 100)** to collect **30 Hard Shell**<br><br>**Required Quest: LV 101 “Tax Due Notice (Weapon Trader)”** | EXP: 9,618,622<br>SP: 1200<br>GOLD: 4725 |
+| The Weapon Trader’s Tax Payment (2) | 101 | 1 | Starting NPC: **Weapon Trader Hemaka (Alexandria Trader/Hunter Area)**<br><br>Deliver Hard Weapons Chest to **Finance Officer Maneto (Alexandria Library)**<br><br>**Required Quest: LV 101 “The Weapon Trader’s Tax Payment (1)”** | EXP: 4,809,311<br>SP: 700<br>GOLD: 2362 |
+| The Grocery Trader’s Tax Payment (1) | 101 | 1 | Starting NPC: **Grocery Trader Melit (Alexandria Trader/Hunter Area)**<br><br>Hunt **Cruel Raider (LV 100)** to collect **50 Gold Article**<br><br>**Required Quest: LV 101 “Tax Due Notice (Grocery Trader)”** | EXP: 9,618,622<br>SP: 1200<br>GOLD: 4725 |
+| The Grocery Trader’s Tax Payment (2) | 101 | 1 | Starting NPC: **Grocery Trader Melit (Alexandria Trader/Hunter Area)**<br><br>Deliver Extravagant Ornament Chest to **Finance Officer Maneto (Alexandria Library)**<br><br>**Required Quest: LV 101 “The Grocery Trader’s Tax Payment (1)”** | EXP: 4,809,311<br>SP: 700<br>GOLD: 2362 |
+| The Potion Marchant’s Tax Payment | 101 | 1 | Starting NPC: **Potion Merchant Titi (Alexandria Trader/Hunter Area)**<br><br>Deliver Gold Sack (Titi) to **Finance Officer Maneto (Alexandria Library)**<br><br>**Required Quest: LV 101 “Tax Due Notice (Potion Merchant)”** | EXP: 4,809,311<br>SP: 700<br>GOLD: 2362 |
+| The Specialty Trader’s Tax Payment | 101 | 1 | Starting NPC: **Specialty Trader Wasdi (Alexandria Trader/Hunter Area)**<br><br>Talk to **Finance Officer Maneto (Alexandria Library)**<br><br>**Required Quest: LV 101 “Tax Due Notice (Specialty Trader)”** | EXP: 4,809,311<br>SP: 700<br>GOLD: 2362 |
+| Feed for the Horses | 101 | 1 | Starting NPC: **Stable Master Nefret (Alexandria Trader/Hunter Area)**<br><br>Hunt **Dark Khepri (LV 101)** to collect **100 Dark Khepri Grass** | EXP: 9,618,622<br>SP: 1200<br>GOLD: 4725 |
+| Returning Stored Items (Librarian) | 102 | 1 | Starting NPC: **Storage Keeper Khamererne (Alexandria Trader/Hunter Area)**<br><br>Deliver Ahha’s Stored Item and Bill for Additional Fees (Ahha) to **Librarian Ahha (Alexandria Library)** | EXP: 4,953,590<br>SP: 800<br>GOLD: 2384 |
+| Returning Stored Items (Specialty Trader) | 102 | 1 | Starting NPC: **Storage Keeper Khamererne (Alexandria Trader/Hunter Area)**<br><br>Deliver Wasdi’s Stored Item and Bill for Additional Fees (Wasdi) to **Specialty Trader Wasdi (Alexandria Trader/Hunter Area)** | EXP: 4,953,590<br>SP: 800<br>GOLD: 2384 |
+| The Librarian's Claim | 102 | 1 | Starting NPC: **Librarian Ahha (Alexandria Library)**<br><br>Hunt **80 Dark Scout (LV 100)**<br><br>**Required Quest: LV 102 “Returning Stored Items (Librarian)”** | EXP: 9,907,180<br>SP: 1300<br>GOLD: 3815 |
+| Wasdi's Plan | 102 | 1 | Starting NPC: **Specialty Trader Wasdi (Alexandria Trader/Hunter Area)**<br><br>Hunt **Wind Spider (LV 100)** to collect **50 Shiny Spider Web**<br>Hunt **Desert Bug (LV 102)** to collect **30 Hardened Insect Shell**<br><br>**Required Quest: LV 102 “Returning Stored Items (Specialty Trader)”** | EXP: 9,907,180<br>SP: 1300<br>GOLD: 4768 |
+| Collecting Additional Service Fee (Ahha) | 102 | 1 | Starting NPC: **Librarian Ahha (Alexandria Library)**<br><br>Deliver Gold Sack (Ahha) to **Storage Keeper Khamererne (Alexandria Trader/Hunter Area)**<br><br>**Required Quest: LV 102 “The Librarian's Claim”** | EXP: 4,953,590<br>SP: 800<br>GOLD: 2384 |
+| Collecting Additional Service Fee (Wasdi) | 102 | 1 | Starting NPC: **Specialty Trader Wasdi (Alexandria Trader/Hunter Area)**<br><br>Deliver Gold Sack (Wasdi) to **Storage Keeper Khamererne (Alexandria Trader/Hunter Area)**<br><br>**Required Quest: LV 102 “Wasdi's Plan”** | EXP: 4,953,590<br>SP: 800<br>GOLD: 2384 |
+| The Undelivered Book (1) | 102 | 1 | Starting NPC: **Lighthouse Keeper Snefru (Alexandria Harbor)**<br><br>Talk to **Grocery Trader Melit (Alexandria Trader/Hunter Area)** | EXP: 4,953,590<br>SP: 800<br>GOLD: 2384 |
+| The Undelivered Book (2) | 102 | 1 | Starting NPC: **Grocery Trader Melit (Alexandria Trader/Hunter Area)**<br><br>Hunt **Tenen (LV 100) / Wind Spider (LV 100) / Dark Scout (LV 100)** to collect **100 Melit’s Chest**<br><br>**Required Quest: LV 102 “The Undelivered Book (1)”** | EXP: 9,907,180<br>SP: 1300<br>GOLD: 4768 |
+| The Undelivered Book (3) | 102 | 1 | Starting NPC: **Grocery Trader Melit (Alexandria Trader/Hunter Area)**<br><br>Deliver Snefru’s Ordered Book to **Lighthouse Keeper Snefru (Alexandria Harbor)**<br><br>**Required Quest: LV 102 “The Undelivered Book (2)”** | EXP: 4,953,590<br>SP: 800<br>GOLD: 2384 |
+| Items to Stock | 103 | 1 | Starting NPC: **Storage Keeper Asagon (Alexandria Thief Area)**<br><br>Hunt **Dark Sandman (LV 103)** to collect **100 Sand Man’s Treasure Chest** | EXP: 10,204,396<br>SP: 1400<br>GOLD: 4812 |
+| High-gloss Finishing Material | 103 | 1 | Starting NPC: **Weapon Trader Chunmoo (Alexandria Thief Area)**<br><br>Hunt **Dark Sandman (LV 103) / Blood Sandman (LV 104)** to collect **50 Magical Finishing Material** | EXP: 10,204,396<br>SP: 1400<br>GOLD: 4812 |
+| Spring Water Potion | 103 | 1 | Starting NPC: **Potion Merchant Thiara (Alexandria Thief Area)**<br><br>Hunt **Dark Sandman (LV 103)** to collect **100 Magic Spring Water** | EXP: 10,204,396<br>SP: 1400<br>GOLD: 4812 |
+| Materials for the Box | 103 | 1 | Starting NPC: **Grocery Trader Kapra (Alexandria Thief Area)**<br><br>Hunt **Camel Spider (LV 103)** to collect **50 Camel Skin** | EXP: 10,204,396<br>SP: 1400<br>GOLD: 4812 |
+| Medicine for the Horses (1) | 104 | 1 | Starting NPC: **Stable Master Nefret (Alexandria Trader/Hunter Area)**<br><br>Talk to **Potion Merchant Titi (Alexandria Trader/Hunter Area)** | EXP: 5,255,264<br>SP: 1000<br>GOLD: 2428 |
+| Medicine for the Horses (2) | 104 | 1 | Starting NPC: **Potion Merchant Titi (Alexandria Trader/Hunter Area)**<br><br>Hunt **Blood Hyena (LV 104)** to collect **70 Hyena’s Bodily Fluids**<br><br>**Required Quest: LV 104 “Medicine for the Horses (1)”** | EXP: 10,510,528<br>SP: 1500<br>GOLD: 4856 |
+| Medicine for the Horses (3) | 104 | 1 | Starting NPC: **Potion Merchant Titi (Alexandria Trader/Hunter Area)**<br><br>Deliver Infectious Disease Remedy to **Stable Master Nefret (Alexandria Trader/Hunter Area)**<br><br>**Required Quest: LV 104 “Medicine for the Horses (2)”** | EXP: 5,255,264<br>SP: 1000<br>GOLD: 2428 |
+| The Sparkling Bone Powder | 104 | 1 | Starting NPC: **Specialty Trader Kaella (Egypt Kings Valley)**<br><br>Hunt **Ure'uth (LV 104)** to collect **50 Ure'uth Wing Bone** | EXP: 10,510,528<br>SP: 1500<br>GOLD: 4856 |
+| Arranging Surgery Equipment | 104 | 1 | Starting NPC: **Doctor Renetutet (Alexandria Serapeum)**<br><br>Hunt **Blood Hyena (LV 104)** to collect **50 Hyena Fang** | EXP: 10,510,528<br>SP: 1500<br>GOLD: 4856 |
+| The Prescription (1) | 104 | 1 | Starting NPC: **Doctor Renetutet (Alexandria Serapeum)**<br><br>Deliver Prescription to **Potion Merchant Titi (Alexandria Trader/Hunter Area)** | EXP: 5,255,264<br>SP: 1000<br>GOLD: 2428 |
+| The Prescription (2) | 104 | 1 | Starting NPC: **Potion Merchant Titi (Alexandria Trader/Hunter Area)**<br><br>Hunt **Ure'uth (LV 104)** to collect **100 Ure'uth Scale**<br><br>**Required Quest: LV 104 “The Prescription (1)”** | EXP: 10,510,528<br>SP: 1500<br>GOLD: 4856 |
+| The Prescription (3) | 104 | 1 | Starting NPC: **Potion Merchant Titi (Alexandria Trader/Hunter Area)**<br><br>Deliver Prescription Medicine to **Doctor Renetutet (Alexandria Serapeum)**<br><br>**Required Quest: LV 104 “The Prescription (2)”** | EXP: 5,255,264<br>SP: 1000<br>GOLD: 2428 |
+| Developing a New Weapon | 105 | 1 | Starting NPC: **Weapon Trader Hemaka (Alexandria Trader/Hunter Area)**<br><br>Hunt **Ure'uth (LV 104)** to collect **30 Ure'uth’s Chunk of Flesh** | EXP: 10,825,843<br>SP: 1600<br>GOLD: 4900 |
+| Herb Delivery (Weapon Trader) | 105 | 1 | Starting NPC: **Potion Merchant Titi (Alexandria Trader/Hunter Area)**<br><br>Deliver Herb Sack (Hemaka) to **Weapon Trader Hemaka (Alexandria Trader/Hunter Area)** | EXP: 5,412,921<br>SP: 1100<br>GOLD: 2450 |
+| Herb Delivery (Grocery Trader) | 105 | 1 | Starting NPC: **Potion Merchant Titi (Alexandria Trader/Hunter Area)**<br><br>Deliver Herb Sack (Melit) to **Grocery Trader Melit (Alexandria Trader/Hunter Area)** | EXP: 5,412,921<br>SP: 1100<br>GOLD: 2450 |
+| Retrieving the Stolen Goods | 105 | 1 | Starting NPC: **Grocery Trader Melit (Alexandria Trader/Hunter Area)**<br><br>Hunt **Mehen (LV 104)** to collect **60 Melit’s Product** | EXP: 10,825,843<br>SP: 1600<br>GOLD: 4900 |
+| Find the Rare Item (1) | 106 | 1 | Starting NPC: **Specialty Trader Wasdi (Alexandria Trader/Hunter Area)**<br><br>Hunt **Sand Bug (LV 106)** to collect **30 Insect Shell Jewel** | EXP: 11,150,619<br>SP: 1700<br>GOLD: 4943 |
+| Weapon Delivery (Librarian) | 106 | 1 | Starting NPC: **Weapon Trader Hemaka (Alexandria Trader/Hunter Area)**<br><br>Deliver Self-Defense Dagger (Ahha) to **Librarian Ahha (Alexandria Library)** | EXP: 5,575,309<br>SP: 1200<br>GOLD: 2471 |
+| Weapon Delivery (Specialty Trader) | 106 | 1 | Starting NPC: **Weapon Trader Hemaka (Alexandria Trader/Hunter Area)**<br><br>Deliver Self-Defense Dagger (Wasdi) to **Specialty Trader Wasdi (Alexandria Trader/Hunter Area)** | EXP: 5,575,309<br>SP: 1200<br>GOLD: 2471 |
+| The Unreturned Book (1) | 106 | 1 | Starting NPC: **Librarian Ahha (Alexandria Library)**<br><br>Talk to **Guild Manager Elia (Alexandria Thief Area)** | EXP: 5,575,309<br>SP: 1200<br>GOLD: 2471 |
+| The Unreturned Book (2) | 106 | 1 | Starting NPC: **Guild Manager Elia (Alexandria Thief Area)**<br><br>Hunt **Sand Bug (LV 106)** to collect **100 Torn Book Fragment**<br><br>**Required Quest: LV 106 “The Unreturned Book (1)”** | EXP: 11,150,619<br>SP: 1700<br>GOLD: 4943 |
+| The Unreturned Book (3) | 106 | 1 | Starting NPC: **Guild Manager Elia (Alexandria Thief Area)**<br><br>Deliver Ragged Book to **Librarian Ahha (Alexandria Library)**<br><br>**Required Quest: LV 106 “The Unreturned Book (2)”** | EXP: 5,575,309<br>SP: 1200<br>GOLD: 2471 |
+| The Secret Herbal Ingredients | 108 | 1 | Starting NPC: **Potion Merchant Titi (Alexandria Trader/Hunter Area)**<br><br>Hunt **Sand Sting (LV 108)** to collect **50 Dark Red Venom** | EXP: 11,829,691<br>SP: 1900<br>GOLD: 5031 |
+| Find the Rare Item (2) | 108 | 1 | Starting NPC: **Specialty Trader Wasdi (Alexandria Trader/Hunter Area)**<br><br>Hunt **Sylaken (LV 108)** to collect **50 Sylaken Shell**<br><br>**Required Quest: LV 106 “Find the Rare Item (1)”** | EXP: 11,829,691<br>SP: 1900<br>GOLD: 5031 |
+| The Exclusive Rights | 108 | 1 | Starting NPC: **Trader Union President Naunakt (Alexandria Trader/Hunter Area)**<br><br>Hunt **50 Sandworm (LV 108), 50 Sand Sting (LV 108)** | EXP: 11,829,691<br>SP: 1900<br>GOLD: 5031 |
+| The Magic Crystal | 108 | 1 | Starting NPC: **Hunter Union President Narmer (Alexandria Trader/Hunter Area)**<br><br>Hunt **Sandworm (LV 108)** to collect **30 Cold Powder**<br>Hunt **Sylaken (LV 108)** to collect **30 Hot Powder** | EXP: 11,829,691<br>SP: 1900<br>GOLD: 5031 |
+| The Lost Union Directive | 109 | 1 | Starting NPC: **Thief Union President Tausert (Alexandria Thief Area)**<br><br>Hunt **Akeru (LV 109)** to collect **1 Secret Order** | EXP: 12,184,582<br>SP: 2000<br>GOLD: 5075 |
+| A Time of Recession | 109 | 1 | Starting NPC: **Guild Manager Elia (Alexandria Thief Area)**<br><br>Hunt **Akeru (LV 109)** to collect **100 Desert Monster Sword** | EXP: 12,184,582<br>SP: 2000<br>GOLD: 5075 |
+| The Lost Management Fund | 110 | 1 | Starting NPC: **Guild Manager Sennefer (Alexandria Trader/Hunter Area)**<br><br>Hunt **Devil Worm (LV 110)** to collect **1 Guild Funds Chest** | EXP: 12,550,119<br>SP: 2100<br>GOLD: 5118 |
+| The Hero’s Novel | 110 | 1 | Starting NPC: **Librarian Ahha (Alexandria Library)**<br><br>Hunt **100 Devil Worm (LV 110)** | EXP: 12,550,119<br>SP: 2100<br>GOLD: 5118 |
+| The Stolen Specialties | 110 | 1 | Starting NPC: **Specialty Trader Hujaan (Egypt Storm and cloud Desert)**<br><br>Hunt **Devil Worm (LV 110)** to collect **10 Pharaoh’s Treasure** | EXP: 12,550,119<br>SP: 2100<br>GOLD: 5118 |
 
 [⬆ Back to Top](#content)
