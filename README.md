@@ -574,6 +574,6 @@ Created and compiled by **Demiurgs**
 | A Time of Recession | 109 | 1 | Starting NPC: **Guild Manager Elia (Alexandria Thief Area)**<br><br>Hunt **Akeru (LV 109)** to collect **100 Desert Monster Sword** | EXP: 12,184,582<br>SP: 2000<br>GOLD: 5075 |
 | The Lost Management Fund | 110 | 1 | Starting NPC: **Guild Manager Sennefer (Alexandria Trader/Hunter Area)**<br><br>Hunt **Devil Worm (LV 110)** to collect **1 Guild Funds Chest** | EXP: 12,550,119<br>SP: 2100<br>GOLD: 5118 |
 | The Hero’s Novel | 110 | 1 | Starting NPC: **Librarian Ahha (Alexandria Library)**<br><br>Hunt **100 Devil Worm (LV 110)** | EXP: 12,550,119<br>SP: 2100<br>GOLD: 5118 |
-| The Stolen Specialties | 110 | 1 | Starting NPC: **Specialty Trader Hujaan (Egypt Storm and cloud Desert)**<br><br>Hunt **Devil Worm (LV 110)** to collect **10 Pharaoh’s Treasure** | EXP: 12,550,119<br>SP: 2100<br>GOLD: 5118 |
+| The Stolen Specialties | 110 | 1 | Starting NPC: **Specialty Trader Hujaan (Egypt Storm and Cloud Desert)**<br><br>Hunt **Devil Worm (LV 110)** to collect **10 Pharaoh’s Treasure** | EXP: 12,550,119<br>SP: 2100<br>GOLD: 5118 |
 
 [⬆ Back to Top](#content)
